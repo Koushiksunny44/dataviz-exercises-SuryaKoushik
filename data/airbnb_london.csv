@@ -1,0 +1,2501 @@
+neighbourhood,room_type,price,minimum_nights,number_of_reviews,availability_365,reviews_per_month
+Hammersmith,Entire home/apt,148.55,6,158,302,3.75
+Kensington and Chelsea,Private room,393.56,29,46,323,2.56
+Camden,Entire home/apt,197.64,19,242,291,2.52
+Southwark,Private room,70.47,6,199,22,1.24
+Hammersmith,Private room,96.58,18,110,103,4.11
+Tower Hamlets,Private room,107.41,26,50,28,0.22
+Wandsworth,Private room,88.73,23,256,301,0.54
+Hammersmith,Private room,86.67,8,148,308,0.82
+Tower Hamlets,Private room,102.75,26,290,62,1.07
+Hammersmith,Private room,50.59,2,16,127,0.51
+Hackney,Entire home/apt,81.55,25,179,197,0.07
+Westminster,Entire home/apt,578.8,28,48,336,6.49
+Westminster,Private room,161.92,22,62,188,0.41
+Islington,Private room,77.82,27,210,317,0.46
+Westminster,Entire home/apt,226.88,16,18,17,0.7
+Hackney,Entire home/apt,41.4,18,221,165,2.9
+Tower Hamlets,Entire home/apt,254.78,29,54,358,2.8
+Hammersmith,Entire home/apt,108.25,23,54,287,2.52
+Kensington and Chelsea,Entire home/apt,590.87,23,254,327,0.22
+Southwark,Entire home/apt,89.03,2,290,95,8.97
+Kensington and Chelsea,Private room,147.03,16,164,181,0.46
+Islington,Private room,88.17,28,81,1,4.83
+Southwark,Entire home/apt,87.75,10,194,118,0.62
+Southwark,Entire home/apt,119.86,21,279,80,4.06
+Kensington and Chelsea,Shared room,88.32,23,127,223,1.11
+Hackney,Entire home/apt,240.71,25,200,245,2.07
+Tower Hamlets,Entire home/apt,250.44,29,108,97,0.64
+Lambeth,Private room,70.14,6,33,16,1.04
+Lambeth,Private room,43.85,23,116,361,0.3
+Wandsworth,Entire home/apt,95.9,13,172,189,1.46
+Camden,Entire home/apt,275.21,11,192,306,0.19
+Hackney,Entire home/apt,72.73,4,112,186,0.71
+Hackney,Shared room,30.24,23,110,151,5.52
+Southwark,Entire home/apt,190.35,19,226,243,0.11
+Camden,Private room,40.75,2,72,200,0.87
+Westminster,Entire home/apt,167.84,7,290,130,0.16
+Hackney,Entire home/apt,385.65,2,11,274,0.76
+Westminster,Entire home/apt,221.24,15,11,317,6.35
+Hackney,Private room,89.75,21,80,214,2.58
+Lambeth,Shared room,38.56,27,25,46,0.09
+Islington,Shared room,52.94,26,85,249,0.75
+Southwark,Private room,68.23,27,214,81,2.73
+Tower Hamlets,Private room,62.37,18,102,272,2.1
+Kensington and Chelsea,Entire home/apt,146.09,23,38,14,3.26
+Tower Hamlets,Private room,110.59,25,209,160,4.34
+Hammersmith,Private room,54.71,2,250,246,0.41
+Camden,Shared room,21.84,3,38,301,0.86
+Westminster,Entire home/apt,724.82,24,235,238,1.02
+Wandsworth,Entire home/apt,125.86,20,64,176,0.23
+Kensington and Chelsea,Entire home/apt,148.92,25,192,72,0.23
+Wandsworth,Private room,49.87,12,186,292,3.09
+Lambeth,Shared room,38.29,13,225,152,2.72
+Tower Hamlets,Entire home/apt,234.79,20,62,309,1.87
+Hammersmith,Entire home/apt,153.21,26,258,261,3.23
+Lambeth,Shared room,34.5,17,8,98,1.82
+Westminster,Entire home/apt,467.18,17,215,2,3.38
+Lambeth,Private room,51.62,29,88,328,4.51
+Southwark,Entire home/apt,136.83,28,28,136,0.09
+Camden,Private room,102.39,9,39,24,1.6
+Camden,Entire home/apt,90.53,5,175,89,1.52
+Southwark,Entire home/apt,113.81,13,283,80,0.13
+Hackney,Private room,118.9,27,236,288,4.22
+Hackney,Private room,44.52,28,58,58,0.35
+Wandsworth,Shared room,40.93,28,6,132,4.26
+Hammersmith,Entire home/apt,137.69,23,159,362,0.52
+Islington,Entire home/apt,212.28,29,11,294,0.43
+Westminster,Private room,121.1,8,222,353,2.01
+Kensington and Chelsea,Private room,94.55,7,73,232,6.59
+Southwark,Entire home/apt,117.31,4,241,323,0.72
+Westminster,Private room,93.96,22,119,209,4.1
+Tower Hamlets,Private room,138.85,20,6,28,0.04
+Lambeth,Entire home/apt,108.67,23,25,225,11.7
+Westminster,Entire home/apt,330.99,9,38,270,3.17
+Tower Hamlets,Private room,49.66,11,26,194,6.03
+Kensington and Chelsea,Entire home/apt,354.62,21,83,261,2.86
+Southwark,Shared room,52.95,15,161,162,0.06
+Wandsworth,Private room,62.43,18,270,207,1.57
+Wandsworth,Private room,89.99,14,49,198,1.97
+Southwark,Private room,98.4,26,45,14,1.31
+Islington,Entire home/apt,122.8,6,213,116,1.78
+Kensington and Chelsea,Entire home/apt,605.43,13,208,71,1.25
+Camden,Entire home/apt,81.72,13,216,288,6.1
+Wandsworth,Entire home/apt,220.7,22,178,87,0.32
+Wandsworth,Private room,67.42,28,147,160,1.64
+Camden,Entire home/apt,148.97,2,224,288,4.28
+Westminster,Private room,59.28,6,89,173,2.36
+Camden,Entire home/apt,103.72,12,122,8,5.5
+Islington,Private room,89.8,8,177,347,3.24
+Islington,Private room,72.24,16,21,2,0.08
+Hammersmith,Entire home/apt,261.1,12,24,300,1.91
+Hackney,Shared room,61.49,4,172,220,3.12
+Islington,Entire home/apt,89.41,24,58,130,0.17
+Hackney,Private room,113.08,29,206,352,3.67
+Westminster,Private room,149.85,20,292,3,2.66
+Tower Hamlets,Entire home/apt,228.43,18,176,95,1.77
+Hammersmith,Private room,130.48,2,261,294,0.65
+Hackney,Entire home/apt,152.85,29,267,130,1.95
+Kensington and Chelsea,Private room,149.18,4,239,86,2.0
+Camden,Entire home/apt,126.05,5,40,317,0.2
+Kensington and Chelsea,Private room,84.03,17,27,65,3.9
+Southwark,Entire home/apt,188.25,8,163,300,0.54
+Hammersmith,Entire home/apt,196.01,10,256,132,0.57
+Westminster,Entire home/apt,120.9,22,283,120,1.86
+Southwark,Entire home/apt,233.6,24,155,206,1.63
+Tower Hamlets,Entire home/apt,239.8,2,292,19,0.11
+Westminster,Entire home/apt,331.22,5,160,178,0.08
+Hammersmith,Entire home/apt,181.16,18,215,250,0.01
+Camden,Entire home/apt,186.64,24,177,293,0.3
+Tower Hamlets,Private room,77.84,10,7,340,0.2
+Kensington and Chelsea,Entire home/apt,367.99,23,217,113,0.56
+Hammersmith,Private room,52.05,8,75,327,3.17
+Tower Hamlets,Private room,85.64,21,68,360,0.23
+Camden,Shared room,31.58,6,62,72,4.03
+Wandsworth,Private room,77.7,9,97,101,0.79
+Lambeth,Entire home/apt,295.82,2,81,278,1.14
+Westminster,Entire home/apt,210.59,15,64,75,1.88
+Southwark,Entire home/apt,165.3,29,223,290,0.52
+Hammersmith,Private room,101.51,2,264,2,1.56
+Kensington and Chelsea,Entire home/apt,145.61,6,116,220,0.83
+Southwark,Entire home/apt,273.5,15,42,342,3.35
+Camden,Private room,215.12,11,20,106,0.02
+Southwark,Private room,76.84,15,276,140,0.87
+Camden,Entire home/apt,174.86,4,51,26,5.31
+Hackney,Private room,77.51,2,76,131,3.47
+Islington,Private room,63.88,10,38,158,2.47
+Kensington and Chelsea,Private room,79.55,22,171,172,2.01
+Islington,Private room,72.87,21,213,219,0.52
+Wandsworth,Private room,56.34,10,71,151,0.87
+Hammersmith,Entire home/apt,109.84,4,49,151,3.46
+Islington,Private room,85.16,1,241,68,0.37
+Hackney,Private room,51.21,1,118,148,0.2
+Southwark,Private room,108.37,10,77,76,1.81
+Wandsworth,Shared room,72.22,3,262,84,2.25
+Hammersmith,Entire home/apt,307.34,7,279,187,3.42
+Tower Hamlets,Private room,103.16,10,287,166,2.96
+Tower Hamlets,Entire home/apt,85.14,9,195,268,1.46
+Camden,Private room,60.99,12,26,159,1.55
+Lambeth,Private room,41.85,26,258,341,2.21
+Islington,Entire home/apt,248.46,6,208,290,2.62
+Tower Hamlets,Entire home/apt,195.16,13,286,302,0.45
+Hammersmith,Entire home/apt,195.93,25,54,11,0.85
+Kensington and Chelsea,Private room,71.42,5,247,363,0.56
+Southwark,Entire home/apt,140.02,22,230,287,0.27
+Lambeth,Entire home/apt,102.63,9,257,248,1.61
+Hackney,Entire home/apt,86.61,23,153,195,4.13
+Lambeth,Private room,71.71,5,243,11,5.34
+Hammersmith,Entire home/apt,188.48,13,290,157,4.21
+Lambeth,Entire home/apt,192.72,15,162,65,0.33
+Hackney,Entire home/apt,120.0,20,255,265,3.46
+Wandsworth,Entire home/apt,238.13,1,109,335,2.89
+Tower Hamlets,Entire home/apt,66.41,9,24,140,0.92
+Kensington and Chelsea,Entire home/apt,111.59,13,11,287,0.26
+Tower Hamlets,Entire home/apt,150.31,28,159,348,0.04
+Camden,Private room,74.44,2,266,177,0.12
+Kensington and Chelsea,Entire home/apt,518.44,23,82,98,0.16
+Hackney,Entire home/apt,248.97,4,102,39,3.36
+Islington,Entire home/apt,368.51,29,123,230,2.58
+Southwark,Private room,42.66,7,154,91,1.31
+Islington,Private room,70.73,22,132,182,1.08
+Southwark,Entire home/apt,252.54,26,64,12,0.02
+Camden,Private room,58.95,21,172,159,1.34
+Hackney,Entire home/apt,155.03,23,116,281,0.27
+Camden,Entire home/apt,547.04,28,81,231,3.33
+Tower Hamlets,Private room,80.84,17,104,191,3.09
+Wandsworth,Shared room,35.93,2,59,47,0.59
+Hammersmith,Shared room,59.29,28,202,246,2.15
+Lambeth,Private room,48.81,15,172,68,2.67
+Westminster,Entire home/apt,341.38,19,151,16,6.27
+Southwark,Entire home/apt,303.04,14,227,138,7.06
+Hackney,Private room,58.45,5,260,349,3.55
+Kensington and Chelsea,Entire home/apt,197.84,6,110,219,4.58
+Kensington and Chelsea,Private room,62.6,18,48,291,1.91
+Wandsworth,Private room,123.61,26,118,189,4.52
+Hammersmith,Private room,151.72,16,287,287,2.14
+Hammersmith,Entire home/apt,463.77,8,182,152,0.94
+Hammersmith,Private room,77.58,14,112,121,3.39
+Islington,Private room,69.27,12,232,17,2.02
+Southwark,Shared room,45.23,23,235,223,0.39
+Lambeth,Private room,122.95,25,21,347,0.09
+Camden,Entire home/apt,133.52,18,94,87,0.84
+Lambeth,Entire home/apt,165.48,29,183,2,0.71
+Hackney,Entire home/apt,169.02,25,127,228,0.35
+Hammersmith,Private room,60.17,8,128,363,2.59
+Westminster,Entire home/apt,259.56,2,9,301,1.91
+Camden,Entire home/apt,163.46,13,85,233,2.86
+Lambeth,Private room,88.38,16,242,222,0.73
+Kensington and Chelsea,Entire home/apt,431.19,26,131,110,1.19
+Tower Hamlets,Private room,55.22,6,201,37,0.37
+Wandsworth,Entire home/apt,126.19,17,118,70,1.31
+Hackney,Entire home/apt,336.89,4,253,23,2.26
+Camden,Private room,180.86,28,59,304,2.02
+Hackney,Entire home/apt,272.23,6,116,355,1.46
+Tower Hamlets,Entire home/apt,106.7,17,182,145,0.93
+Westminster,Private room,111.32,17,197,259,1.37
+Lambeth,Shared room,42.32,28,74,358,1.7
+Southwark,Entire home/apt,81.01,13,106,112,1.76
+Lambeth,Entire home/apt,80.23,17,50,244,0.12
+Hackney,Entire home/apt,201.44,10,191,260,2.45
+Hammersmith,Entire home/apt,144.52,7,294,128,3.03
+Tower Hamlets,Private room,76.44,28,56,30,5.12
+Wandsworth,Shared room,26.77,24,105,341,0.61
+Hackney,Entire home/apt,91.29,25,204,69,0.14
+Tower Hamlets,Entire home/apt,56.06,20,249,362,0.3
+Tower Hamlets,Entire home/apt,135.67,15,159,247,1.59
+Kensington and Chelsea,Private room,115.57,7,153,141,2.62
+Hammersmith,Shared room,53.17,5,160,177,2.55
+Hammersmith,Entire home/apt,132.7,22,288,80,7.88
+Camden,Entire home/apt,370.4,17,16,97,0.17
+Lambeth,Private room,70.53,10,4,1,2.18
+Wandsworth,Private room,26.35,29,166,85,0.69
+Kensington and Chelsea,Entire home/apt,148.5,27,137,98,0.11
+Westminster,Entire home/apt,161.09,4,213,142,0.46
+Southwark,Private room,60.09,20,91,269,0.55
+Wandsworth,Private room,78.53,2,247,253,0.84
+Westminster,Entire home/apt,508.01,3,261,166,2.14
+Wandsworth,Entire home/apt,141.61,11,267,73,0.2
+Wandsworth,Private room,47.74,21,71,54,2.06
+Kensington and Chelsea,Entire home/apt,675.45,2,262,335,3.89
+Hackney,Private room,33.67,11,39,219,0.45
+Kensington and Chelsea,Private room,75.45,4,245,274,4.28
+Islington,Shared room,48.22,13,20,157,2.01
+Tower Hamlets,Shared room,40.92,3,195,280,3.46
+Hammersmith,Entire home/apt,128.2,5,226,188,0.82
+Wandsworth,Private room,139.74,12,212,215,1.36
+Hackney,Private room,80.56,26,276,155,3.5
+Westminster,Entire home/apt,188.78,15,74,278,1.94
+Lambeth,Private room,44.84,12,138,349,7.74
+Hackney,Entire home/apt,122.02,3,247,155,2.29
+Lambeth,Private room,73.05,28,0,246,0.65
+Hackney,Private room,32.27,21,226,312,0.72
+Tower Hamlets,Shared room,37.8,12,38,354,0.12
+Camden,Private room,69.66,14,37,141,4.0
+Kensington and Chelsea,Entire home/apt,139.23,19,29,333,1.3
+Westminster,Entire home/apt,271.09,23,149,82,7.21
+Hackney,Private room,75.56,9,283,172,6.58
+Wandsworth,Entire home/apt,115.43,15,119,316,0.14
+Westminster,Entire home/apt,343.95,1,88,141,1.82
+Hackney,Entire home/apt,216.27,27,67,263,4.2
+Lambeth,Private room,119.49,23,15,61,3.17
+Hackney,Entire home/apt,185.94,21,275,356,1.83
+Westminster,Private room,180.14,9,34,215,6.24
+Kensington and Chelsea,Entire home/apt,99.53,12,173,46,0.3
+Hackney,Private room,53.17,29,231,20,2.0
+Tower Hamlets,Private room,116.19,28,27,259,0.97
+Hackney,Private room,109.11,2,161,346,2.72
+Westminster,Entire home/apt,361.37,18,60,267,1.85
+Kensington and Chelsea,Entire home/apt,220.9,10,92,108,1.32
+Kensington and Chelsea,Entire home/apt,129.22,17,140,188,0.01
+Westminster,Entire home/apt,61.61,11,89,294,3.24
+Westminster,Entire home/apt,178.08,9,264,343,0.18
+Wandsworth,Private room,64.75,21,58,182,4.15
+Hackney,Entire home/apt,326.68,8,108,267,2.25
+Westminster,Private room,77.69,7,249,7,3.97
+Islington,Private room,66.55,4,160,126,2.17
+Southwark,Entire home/apt,218.74,28,83,112,0.15
+Hammersmith,Entire home/apt,144.98,29,104,201,0.9
+Hammersmith,Entire home/apt,400.48,19,117,200,1.9
+Hackney,Private room,71.67,8,257,80,2.37
+Hackney,Entire home/apt,107.37,23,212,61,1.64
+Wandsworth,Private room,99.92,22,106,145,1.03
+Islington,Entire home/apt,213.23,6,121,29,1.18
+Camden,Entire home/apt,539.54,9,62,22,0.77
+Hammersmith,Entire home/apt,94.68,22,99,166,1.43
+Southwark,Private room,69.28,10,125,304,0.21
+Southwark,Entire home/apt,203.42,16,115,203,1.64
+Tower Hamlets,Entire home/apt,149.7,13,259,153,0.08
+Lambeth,Private room,76.66,27,233,50,0.05
+Southwark,Entire home/apt,156.54,23,133,195,10.54
+Wandsworth,Shared room,39.86,13,58,125,0.99
+Lambeth,Entire home/apt,158.19,2,41,353,0.6
+Hackney,Entire home/apt,86.36,21,20,299,3.55
+Tower Hamlets,Entire home/apt,86.34,3,110,353,1.34
+Hackney,Private room,77.05,3,251,337,1.95
+Wandsworth,Private room,134.85,8,283,4,1.29
+Tower Hamlets,Private room,59.13,27,116,353,2.56
+Lambeth,Entire home/apt,120.46,17,183,19,1.26
+Hammersmith,Shared room,50.59,17,146,153,7.93
+Tower Hamlets,Private room,32.64,6,74,215,1.16
+Wandsworth,Entire home/apt,283.6,17,178,218,1.05
+Hackney,Private room,116.86,3,47,328,0.12
+Westminster,Private room,120.21,1,146,62,4.3
+Southwark,Entire home/apt,227.68,16,113,21,2.33
+Hackney,Private room,75.69,10,125,276,0.89
+Camden,Entire home/apt,200.56,15,162,18,0.45
+Hammersmith,Private room,169.04,7,29,134,0.09
+Tower Hamlets,Private room,51.32,8,135,187,2.15
+Westminster,Private room,122.64,2,190,103,1.02
+Camden,Entire home/apt,79.45,6,74,354,1.59
+Camden,Entire home/apt,79.76,19,122,357,0.71
+Kensington and Chelsea,Entire home/apt,194.17,6,187,321,0.15
+Kensington and Chelsea,Entire home/apt,336.84,28,289,294,1.03
+Islington,Private room,107.83,29,230,52,3.69
+Westminster,Private room,95.48,21,268,20,0.48
+Hackney,Private room,20.92,10,53,51,2.03
+Camden,Entire home/apt,197.8,28,52,334,1.61
+Tower Hamlets,Entire home/apt,102.03,23,289,337,3.47
+Wandsworth,Private room,96.79,15,240,348,0.1
+Lambeth,Private room,46.01,11,120,64,0.28
+Wandsworth,Private room,106.36,12,99,337,4.45
+Hackney,Private room,81.85,5,185,217,1.66
+Wandsworth,Private room,65.06,10,174,22,0.59
+Southwark,Shared room,29.47,21,210,139,15.07
+Westminster,Entire home/apt,389.83,16,27,40,1.29
+Camden,Private room,72.29,5,99,30,2.54
+Wandsworth,Private room,77.29,11,99,108,2.81
+Camden,Entire home/apt,193.34,22,64,355,0.18
+Hackney,Private room,61.11,17,117,53,1.45
+Southwark,Private room,82.82,2,137,162,1.36
+Lambeth,Entire home/apt,131.71,22,23,28,1.25
+Tower Hamlets,Entire home/apt,299.04,23,155,271,2.96
+Kensington and Chelsea,Entire home/apt,186.79,12,282,180,0.16
+Wandsworth,Entire home/apt,246.42,26,6,243,2.05
+Southwark,Private room,54.77,7,227,110,2.25
+Kensington and Chelsea,Private room,101.11,22,58,131,4.59
+Wandsworth,Shared room,58.18,2,204,78,0.12
+Hammersmith,Private room,198.41,11,142,287,0.16
+Wandsworth,Entire home/apt,187.37,26,198,361,4.53
+Wandsworth,Private room,43.47,21,67,350,2.24
+Westminster,Entire home/apt,259.75,20,101,215,2.58
+Wandsworth,Private room,59.66,17,4,83,1.99
+Kensington and Chelsea,Entire home/apt,265.43,18,225,14,0.87
+Hammersmith,Private room,78.55,22,209,77,1.58
+Hackney,Entire home/apt,130.32,29,7,234,2.24
+Westminster,Shared room,64.77,28,69,168,0.44
+Hackney,Entire home/apt,187.59,24,186,89,1.48
+Southwark,Entire home/apt,114.63,22,153,259,3.54
+Camden,Private room,86.33,11,244,335,7.57
+Islington,Entire home/apt,211.16,4,93,320,1.23
+Westminster,Entire home/apt,299.12,24,241,341,3.86
+Wandsworth,Private room,54.43,28,254,170,0.09
+Hammersmith,Entire home/apt,355.88,2,54,90,0.59
+Wandsworth,Entire home/apt,866.58,7,240,322,1.0
+Southwark,Entire home/apt,78.91,3,112,358,1.72
+Westminster,Private room,121.4,27,81,323,3.76
+Westminster,Entire home/apt,104.24,13,115,342,1.41
+Wandsworth,Entire home/apt,123.11,29,67,196,2.54
+Kensington and Chelsea,Private room,145.47,3,75,281,3.66
+Islington,Private room,136.08,10,83,241,0.46
+Kensington and Chelsea,Entire home/apt,200.89,19,111,102,0.07
+Wandsworth,Entire home/apt,211.71,1,194,279,3.51
+Tower Hamlets,Private room,57.31,24,23,3,0.33
+Wandsworth,Entire home/apt,138.8,21,168,312,1.79
+Lambeth,Entire home/apt,201.39,25,137,167,0.51
+Lambeth,Entire home/apt,237.38,22,37,238,1.08
+Islington,Private room,72.51,5,24,111,3.39
+Wandsworth,Entire home/apt,313.09,17,271,58,1.07
+Hammersmith,Private room,42.59,27,161,254,1.46
+Westminster,Shared room,35.16,25,122,356,0.22
+Westminster,Private room,141.69,19,291,80,5.4
+Kensington and Chelsea,Entire home/apt,214.49,26,166,125,0.85
+Camden,Private room,88.54,29,72,140,0.48
+Tower Hamlets,Shared room,41.53,12,174,108,5.88
+Westminster,Entire home/apt,338.98,26,270,99,3.09
+Tower Hamlets,Entire home/apt,143.24,4,215,314,1.39
+Lambeth,Entire home/apt,181.19,17,167,338,1.12
+Southwark,Private room,67.01,3,146,203,0.51
+Hammersmith,Private room,94.38,4,150,1,4.1
+Hackney,Entire home/apt,140.63,23,113,271,8.02
+Hackney,Entire home/apt,123.16,16,123,112,0.04
+Southwark,Entire home/apt,306.4,1,4,56,4.21
+Southwark,Entire home/apt,76.9,27,32,317,0.18
+Wandsworth,Private room,57.04,15,166,288,2.05
+Lambeth,Private room,60.75,23,13,214,1.08
+Lambeth,Private room,64.15,10,16,321,7.06
+Southwark,Shared room,37.33,9,81,218,1.47
+Islington,Entire home/apt,165.19,16,1,123,1.6
+Lambeth,Shared room,23.04,11,294,218,0.16
+Lambeth,Entire home/apt,348.98,19,83,321,0.62
+Camden,Private room,63.06,6,206,282,2.25
+Westminster,Private room,140.84,27,257,64,0.25
+Wandsworth,Entire home/apt,533.0,15,149,47,0.01
+Kensington and Chelsea,Private room,168.07,28,67,6,0.58
+Tower Hamlets,Shared room,51.7,10,72,236,1.92
+Lambeth,Shared room,27.46,27,126,270,3.4
+Wandsworth,Entire home/apt,140.63,19,247,347,1.9
+Wandsworth,Private room,46.23,7,244,150,0.1
+Tower Hamlets,Entire home/apt,204.31,1,68,298,0.57
+Kensington and Chelsea,Entire home/apt,121.74,1,15,337,0.93
+Islington,Private room,66.69,6,126,274,1.36
+Kensington and Chelsea,Entire home/apt,499.68,24,90,237,0.69
+Hammersmith,Entire home/apt,265.19,29,106,344,0.81
+Westminster,Private room,160.65,21,257,57,0.57
+Lambeth,Entire home/apt,198.89,4,113,251,0.31
+Camden,Private room,66.93,25,204,259,1.78
+Islington,Entire home/apt,70.95,22,87,323,0.47
+Westminster,Private room,207.71,1,101,37,0.24
+Southwark,Private room,49.04,28,20,241,4.27
+Tower Hamlets,Entire home/apt,140.13,10,22,152,0.88
+Hammersmith,Private room,115.78,25,236,310,0.49
+Islington,Shared room,30.12,10,294,335,4.18
+Southwark,Private room,42.72,6,108,34,0.86
+Wandsworth,Private room,98.04,23,213,284,1.23
+Islington,Entire home/apt,219.23,14,111,44,0.36
+Kensington and Chelsea,Private room,198.38,22,245,288,0.85
+Hammersmith,Private room,90.39,26,137,114,0.5
+Wandsworth,Entire home/apt,96.3,15,245,126,0.53
+Kensington and Chelsea,Private room,90.16,29,136,174,2.8
+Westminster,Entire home/apt,395.22,1,140,245,1.71
+Westminster,Entire home/apt,389.2,29,294,127,7.87
+Westminster,Entire home/apt,352.73,7,102,308,3.0
+Westminster,Private room,93.94,27,252,206,4.34
+Hammersmith,Entire home/apt,351.43,25,85,335,0.45
+Hackney,Entire home/apt,166.45,7,205,338,3.44
+Wandsworth,Private room,49.23,25,231,145,4.64
+Camden,Entire home/apt,174.78,22,5,203,0.4
+Kensington and Chelsea,Shared room,64.26,13,81,321,1.44
+Lambeth,Entire home/apt,109.1,29,122,233,0.77
+Hackney,Entire home/apt,221.62,23,61,131,1.25
+Tower Hamlets,Entire home/apt,310.92,11,95,346,0.95
+Camden,Private room,74.79,28,206,47,0.14
+Kensington and Chelsea,Entire home/apt,245.23,26,294,313,2.84
+Hackney,Private room,122.74,7,91,264,0.85
+Lambeth,Private room,85.74,17,214,276,2.12
+Tower Hamlets,Private room,125.25,12,169,268,2.49
+Kensington and Chelsea,Private room,122.48,25,39,236,0.48
+Hammersmith,Entire home/apt,119.81,26,278,145,6.36
+Westminster,Entire home/apt,490.84,6,238,194,5.6
+Westminster,Entire home/apt,213.46,14,268,355,3.47
+Hammersmith,Private room,142.01,15,206,278,8.19
+Kensington and Chelsea,Entire home/apt,153.05,28,256,164,0.6
+Lambeth,Entire home/apt,295.76,3,78,4,1.99
+Camden,Private room,47.1,24,231,254,4.62
+Kensington and Chelsea,Private room,97.17,18,257,263,0.57
+Lambeth,Private room,82.53,3,162,350,0.08
+Westminster,Shared room,77.4,11,186,303,0.75
+Lambeth,Entire home/apt,197.0,4,182,206,1.43
+Hammersmith,Private room,144.22,16,196,340,1.03
+Hackney,Private room,142.06,11,152,275,1.69
+Islington,Private room,63.56,14,182,27,1.5
+Southwark,Shared room,48.8,25,13,202,5.96
+Camden,Entire home/apt,280.88,22,209,74,0.37
+Southwark,Entire home/apt,179.27,22,63,326,1.83
+Kensington and Chelsea,Private room,112.97,22,241,208,3.63
+Camden,Entire home/apt,234.36,11,206,267,1.21
+Tower Hamlets,Shared room,54.27,3,155,183,6.14
+Camden,Private room,94.62,26,74,363,0.88
+Lambeth,Private room,59.76,29,295,208,1.87
+Tower Hamlets,Entire home/apt,224.02,16,44,238,2.3
+Southwark,Private room,142.23,9,178,211,0.49
+Westminster,Private room,101.8,21,221,275,0.85
+Southwark,Shared room,46.36,17,272,63,4.45
+Hackney,Private room,59.76,26,289,250,1.27
+Lambeth,Shared room,53.64,20,270,83,7.23
+Wandsworth,Shared room,22.33,8,109,191,0.71
+Kensington and Chelsea,Entire home/apt,195.21,7,27,48,0.87
+Tower Hamlets,Entire home/apt,122.11,6,277,129,3.54
+Southwark,Entire home/apt,193.65,10,127,237,0.75
+Islington,Entire home/apt,67.08,25,105,180,1.08
+Wandsworth,Entire home/apt,123.93,25,175,17,2.2
+Kensington and Chelsea,Private room,118.52,9,39,147,0.03
+Southwark,Entire home/apt,97.56,16,200,331,1.32
+Hackney,Private room,76.01,16,294,195,1.08
+Kensington and Chelsea,Entire home/apt,215.79,17,228,76,1.73
+Hammersmith,Private room,99.22,8,280,332,2.17
+Lambeth,Entire home/apt,138.58,24,219,52,0.65
+Hackney,Entire home/apt,118.46,29,199,246,1.69
+Wandsworth,Private room,94.63,3,255,186,0.82
+Southwark,Entire home/apt,94.52,21,249,83,0.57
+Lambeth,Private room,85.18,13,126,113,0.11
+Tower Hamlets,Private room,62.67,15,272,57,0.54
+Islington,Entire home/apt,95.28,8,110,186,1.78
+Southwark,Entire home/apt,121.09,2,245,209,1.44
+Islington,Shared room,48.72,18,220,237,3.52
+Southwark,Private room,77.68,19,115,142,4.83
+Hammersmith,Private room,72.01,21,179,312,1.15
+Lambeth,Shared room,43.25,16,264,287,0.1
+Westminster,Private room,139.69,25,71,154,0.38
+Westminster,Private room,221.72,1,220,212,1.67
+Islington,Private room,109.34,22,101,191,1.13
+Kensington and Chelsea,Private room,83.46,17,148,114,0.7
+Kensington and Chelsea,Shared room,42.27,28,272,5,2.27
+Lambeth,Entire home/apt,288.15,20,67,213,0.65
+Tower Hamlets,Shared room,59.9,20,57,287,1.57
+Tower Hamlets,Private room,52.09,27,283,209,9.58
+Westminster,Shared room,52.86,8,207,136,0.55
+Kensington and Chelsea,Private room,114.38,26,117,72,2.78
+Kensington and Chelsea,Private room,33.42,3,151,4,0.24
+Westminster,Entire home/apt,315.51,26,174,161,3.88
+Camden,Private room,51.85,23,131,86,0.71
+Westminster,Entire home/apt,247.21,21,115,213,0.38
+Westminster,Entire home/apt,238.64,29,142,249,0.29
+Wandsworth,Entire home/apt,160.46,17,111,363,2.64
+Tower Hamlets,Private room,44.31,21,226,213,1.48
+Hackney,Entire home/apt,217.25,8,202,60,3.03
+Hammersmith,Private room,87.9,23,36,55,0.19
+Lambeth,Entire home/apt,155.5,1,187,306,2.15
+Islington,Entire home/apt,122.62,27,219,93,0.6
+Hammersmith,Entire home/apt,152.08,20,75,277,0.51
+Westminster,Entire home/apt,213.46,10,181,334,3.44
+Lambeth,Private room,53.35,17,16,89,0.34
+Lambeth,Entire home/apt,178.08,14,261,162,0.5
+Kensington and Chelsea,Private room,93.77,17,244,162,0.03
+Southwark,Shared room,57.18,17,216,25,5.53
+Hammersmith,Entire home/apt,236.63,18,272,248,2.51
+Islington,Entire home/apt,105.39,23,18,62,5.58
+Hackney,Entire home/apt,222.74,26,43,359,0.77
+Westminster,Private room,45.44,18,64,354,0.88
+Lambeth,Private room,51.93,15,295,186,0.06
+Tower Hamlets,Entire home/apt,163.5,28,236,193,1.63
+Lambeth,Entire home/apt,225.7,7,102,124,1.99
+Hackney,Entire home/apt,121.55,6,145,196,3.04
+Islington,Private room,68.67,5,121,107,0.95
+Islington,Entire home/apt,197.51,10,145,270,1.32
+Wandsworth,Entire home/apt,60.8,27,105,138,2.5
+Tower Hamlets,Entire home/apt,215.83,17,296,213,3.43
+Hackney,Shared room,57.55,11,250,2,12.08
+Islington,Entire home/apt,135.86,18,112,250,5.58
+Islington,Entire home/apt,156.11,20,255,214,1.08
+Camden,Entire home/apt,290.0,16,24,73,4.56
+Wandsworth,Private room,104.58,25,115,47,0.36
+Hackney,Entire home/apt,117.39,21,213,172,0.73
+Westminster,Entire home/apt,170.63,11,271,240,0.02
+Hackney,Entire home/apt,147.76,26,143,261,3.04
+Hammersmith,Private room,97.27,2,282,78,0.63
+Islington,Entire home/apt,165.94,23,62,11,1.06
+Westminster,Entire home/apt,130.4,8,89,207,0.43
+Lambeth,Entire home/apt,93.98,12,100,150,0.47
+Hammersmith,Private room,98.01,29,194,227,2.37
+Tower Hamlets,Entire home/apt,191.41,10,20,63,0.7
+Islington,Entire home/apt,136.9,4,223,271,0.38
+Lambeth,Entire home/apt,101.99,13,274,33,0.43
+Lambeth,Entire home/apt,87.45,19,37,69,4.16
+Wandsworth,Entire home/apt,103.59,4,49,337,0.09
+Islington,Private room,135.55,29,299,289,0.06
+Wandsworth,Entire home/apt,85.27,7,67,146,0.37
+Hackney,Private room,59.43,21,287,321,1.14
+Hammersmith,Entire home/apt,269.33,28,272,351,3.8
+Islington,Shared room,56.1,23,3,326,0.03
+Camden,Entire home/apt,236.68,17,224,347,0.43
+Southwark,Private room,93.18,12,18,295,0.2
+Hackney,Entire home/apt,127.82,10,282,181,1.85
+Camden,Private room,41.79,25,95,265,2.36
+Kensington and Chelsea,Entire home/apt,189.28,24,41,302,0.12
+Lambeth,Entire home/apt,103.92,16,161,159,1.3
+Camden,Entire home/apt,214.11,9,75,345,0.03
+Wandsworth,Entire home/apt,156.74,1,123,163,0.38
+Camden,Private room,72.69,14,193,284,3.28
+Southwark,Private room,74.07,10,109,333,3.66
+Kensington and Chelsea,Entire home/apt,1032.43,26,149,35,9.52
+Lambeth,Entire home/apt,195.15,25,95,163,1.91
+Lambeth,Entire home/apt,167.54,13,122,186,5.16
+Southwark,Private room,67.0,6,86,141,0.27
+Westminster,Private room,105.1,15,43,97,0.77
+Tower Hamlets,Private room,44.28,11,244,286,0.78
+Hackney,Entire home/apt,91.58,23,287,250,3.47
+Southwark,Entire home/apt,172.36,22,218,88,0.99
+Westminster,Entire home/apt,150.75,23,95,74,3.54
+Lambeth,Entire home/apt,246.32,3,19,45,1.25
+Hammersmith,Entire home/apt,197.42,1,193,339,2.29
+Hackney,Entire home/apt,237.49,12,203,211,2.41
+Wandsworth,Private room,109.86,19,274,101,0.19
+Wandsworth,Entire home/apt,428.22,22,42,210,0.51
+Kensington and Chelsea,Shared room,44.75,16,114,25,0.71
+Wandsworth,Entire home/apt,272.29,14,266,153,0.7
+Lambeth,Entire home/apt,450.96,19,229,219,4.56
+Kensington and Chelsea,Entire home/apt,173.44,19,116,45,2.64
+Wandsworth,Shared room,52.74,29,117,53,0.8
+Lambeth,Private room,70.35,26,10,347,5.46
+Islington,Private room,94.4,18,27,234,6.97
+Hammersmith,Private room,61.39,14,34,285,1.38
+Hackney,Entire home/apt,150.96,20,92,172,0.24
+Kensington and Chelsea,Shared room,47.57,26,86,216,5.64
+Lambeth,Entire home/apt,437.61,17,168,329,1.3
+Islington,Entire home/apt,113.24,28,3,131,0.47
+Hammersmith,Entire home/apt,146.64,7,177,188,1.72
+Kensington and Chelsea,Private room,79.76,27,31,333,0.32
+Hackney,Entire home/apt,162.03,27,30,259,1.91
+Islington,Shared room,49.43,4,29,157,0.76
+Camden,Private room,147.08,4,17,89,0.65
+Islington,Private room,52.22,12,199,151,1.04
+Southwark,Entire home/apt,73.01,5,29,248,4.51
+Hammersmith,Private room,66.94,21,270,257,2.07
+Southwark,Entire home/apt,250.17,18,258,134,4.65
+Lambeth,Entire home/apt,106.54,26,10,67,0.44
+Tower Hamlets,Entire home/apt,142.03,29,21,171,5.48
+Hammersmith,Private room,46.11,16,166,223,0.5
+Islington,Entire home/apt,412.47,26,149,214,3.1
+Southwark,Entire home/apt,232.22,15,122,338,2.71
+Hackney,Entire home/apt,88.08,15,293,76,6.09
+Hackney,Entire home/apt,141.15,4,178,84,0.05
+Kensington and Chelsea,Private room,119.24,13,194,8,1.63
+Southwark,Entire home/apt,179.05,5,0,265,5.84
+Kensington and Chelsea,Entire home/apt,126.1,25,11,344,0.27
+Hammersmith,Private room,58.58,23,170,133,2.31
+Wandsworth,Entire home/apt,193.69,13,42,333,0.67
+Wandsworth,Entire home/apt,267.84,9,231,219,0.82
+Wandsworth,Entire home/apt,104.83,3,5,279,0.76
+Southwark,Entire home/apt,210.21,2,174,318,3.04
+Camden,Private room,65.44,23,202,146,9.79
+Southwark,Private room,185.45,11,213,150,0.03
+Hackney,Entire home/apt,142.5,23,219,347,2.63
+Westminster,Private room,118.2,17,36,98,0.3
+Hackney,Entire home/apt,179.42,6,125,342,1.68
+Lambeth,Entire home/apt,89.06,14,235,213,4.23
+Kensington and Chelsea,Entire home/apt,555.6,9,64,133,0.88
+Islington,Entire home/apt,68.92,11,145,342,0.56
+Southwark,Entire home/apt,96.96,23,87,302,0.05
+Hammersmith,Entire home/apt,193.09,27,136,244,1.68
+Southwark,Private room,70.61,16,76,176,0.29
+Southwark,Private room,78.67,2,24,57,0.01
+Lambeth,Private room,55.95,29,37,74,1.76
+Kensington and Chelsea,Entire home/apt,175.86,19,145,240,0.9
+Kensington and Chelsea,Entire home/apt,260.33,1,152,125,1.72
+Wandsworth,Entire home/apt,271.79,25,15,181,4.88
+Westminster,Entire home/apt,292.58,1,235,359,0.57
+Camden,Entire home/apt,401.93,6,47,38,2.57
+Hammersmith,Entire home/apt,437.03,20,273,87,1.02
+Wandsworth,Private room,101.09,13,136,153,5.4
+Hackney,Private room,61.87,5,246,260,1.66
+Camden,Private room,58.08,9,7,66,0.1
+Wandsworth,Entire home/apt,211.42,11,98,297,3.92
+Kensington and Chelsea,Entire home/apt,348.97,9,198,129,2.28
+Islington,Private room,70.2,7,150,156,0.72
+Hackney,Private room,65.37,20,235,182,0.28
+Camden,Shared room,42.25,26,219,105,2.59
+Hackney,Entire home/apt,402.46,5,213,314,0.01
+Kensington and Chelsea,Private room,75.66,15,216,34,3.74
+Westminster,Private room,95.62,17,143,110,0.62
+Hackney,Entire home/apt,160.3,28,79,82,4.17
+Islington,Private room,61.73,24,214,133,2.29
+Wandsworth,Entire home/apt,186.46,14,151,330,1.43
+Hackney,Entire home/apt,154.71,16,20,53,2.17
+Kensington and Chelsea,Private room,104.94,16,223,213,3.91
+Wandsworth,Shared room,29.62,22,195,34,4.13
+Lambeth,Entire home/apt,157.77,7,282,0,1.29
+Lambeth,Entire home/apt,185.77,10,177,62,2.55
+Wandsworth,Entire home/apt,118.65,17,226,47,3.54
+Tower Hamlets,Shared room,28.94,16,252,316,0.9
+Westminster,Entire home/apt,69.25,20,150,337,1.05
+Camden,Entire home/apt,187.11,4,246,263,2.38
+Wandsworth,Entire home/apt,165.71,8,188,255,0.02
+Westminster,Entire home/apt,120.67,18,191,252,1.08
+Kensington and Chelsea,Entire home/apt,259.68,2,208,356,2.18
+Kensington and Chelsea,Entire home/apt,73.1,22,290,271,3.84
+Westminster,Entire home/apt,148.6,16,129,131,1.44
+Camden,Private room,114.29,5,147,15,0.94
+Southwark,Entire home/apt,129.8,5,184,321,0.0
+Tower Hamlets,Entire home/apt,223.28,29,250,96,2.57
+Westminster,Entire home/apt,173.42,1,215,131,1.44
+Camden,Entire home/apt,278.18,10,104,227,5.0
+Camden,Entire home/apt,297.69,10,55,112,0.99
+Camden,Entire home/apt,278.74,29,78,145,4.02
+Hackney,Entire home/apt,272.13,2,195,322,3.3
+Camden,Shared room,34.86,1,67,304,3.9
+Southwark,Entire home/apt,247.56,9,250,331,6.16
+Kensington and Chelsea,Private room,165.04,6,64,181,0.55
+Kensington and Chelsea,Entire home/apt,191.84,7,82,318,0.13
+Hackney,Entire home/apt,188.99,29,41,97,3.67
+Camden,Entire home/apt,176.0,17,293,206,3.06
+Lambeth,Private room,44.16,2,290,113,0.42
+Tower Hamlets,Private room,41.1,6,178,218,2.68
+Lambeth,Entire home/apt,316.43,10,191,170,0.03
+Islington,Shared room,43.35,21,107,334,4.21
+Tower Hamlets,Private room,155.91,2,9,124,1.19
+Lambeth,Private room,39.12,9,128,238,1.58
+Lambeth,Private room,50.57,23,43,26,0.87
+Tower Hamlets,Entire home/apt,111.92,27,184,68,0.3
+Islington,Private room,200.51,16,153,34,1.98
+Islington,Private room,82.54,1,168,168,4.99
+Hackney,Private room,84.53,9,0,60,0.75
+Lambeth,Entire home/apt,160.99,7,89,225,2.33
+Southwark,Entire home/apt,142.73,15,169,306,2.06
+Kensington and Chelsea,Private room,96.6,15,61,154,2.49
+Camden,Entire home/apt,213.11,13,270,88,2.3
+Lambeth,Entire home/apt,44.69,26,202,73,2.58
+Southwark,Entire home/apt,125.45,5,129,351,1.32
+Kensington and Chelsea,Entire home/apt,215.6,17,272,116,1.69
+Kensington and Chelsea,Private room,96.63,29,151,73,1.53
+Camden,Private room,43.54,20,100,44,0.79
+Wandsworth,Private room,197.91,15,106,107,0.1
+Southwark,Private room,75.63,26,25,216,2.35
+Westminster,Entire home/apt,76.59,10,274,272,0.71
+Westminster,Entire home/apt,211.75,3,48,54,3.58
+Kensington and Chelsea,Private room,117.84,14,188,309,1.01
+Westminster,Entire home/apt,305.57,22,143,199,2.76
+Lambeth,Private room,81.98,11,153,89,1.81
+Westminster,Private room,76.84,13,211,62,0.22
+Tower Hamlets,Private room,64.05,17,139,217,1.49
+Kensington and Chelsea,Private room,137.66,12,281,148,0.46
+Tower Hamlets,Entire home/apt,145.39,13,278,336,3.65
+Camden,Entire home/apt,171.42,27,45,182,2.63
+Camden,Private room,40.67,12,237,133,1.38
+Tower Hamlets,Entire home/apt,102.0,12,179,122,1.9
+Southwark,Entire home/apt,293.62,6,83,154,3.81
+Southwark,Private room,71.17,27,68,10,0.64
+Hackney,Entire home/apt,182.35,15,92,16,1.46
+Kensington and Chelsea,Entire home/apt,616.78,11,105,34,0.73
+Islington,Private room,78.93,14,33,168,3.45
+Westminster,Entire home/apt,337.27,19,256,267,0.12
+Hammersmith,Entire home/apt,391.03,4,196,18,5.12
+Westminster,Private room,56.71,6,124,306,1.34
+Wandsworth,Private room,239.23,11,123,308,2.6
+Southwark,Private room,47.02,8,291,361,1.15
+Lambeth,Private room,56.35,7,19,215,0.98
+Wandsworth,Entire home/apt,174.92,6,293,245,3.97
+Lambeth,Entire home/apt,328.28,24,50,265,2.23
+Southwark,Entire home/apt,196.43,21,56,38,1.32
+Camden,Entire home/apt,126.19,14,179,31,7.95
+Wandsworth,Entire home/apt,111.24,2,56,179,1.11
+Islington,Entire home/apt,165.55,21,257,17,0.21
+Southwark,Entire home/apt,122.79,3,245,109,0.86
+Kensington and Chelsea,Entire home/apt,166.48,20,176,138,4.06
+Hammersmith,Private room,76.39,15,12,295,1.46
+Hammersmith,Private room,53.48,23,250,309,0.37
+Kensington and Chelsea,Entire home/apt,59.5,25,17,56,1.59
+Hammersmith,Entire home/apt,128.33,26,103,185,1.45
+Camden,Entire home/apt,97.54,28,81,76,3.94
+Camden,Entire home/apt,307.56,12,15,150,1.74
+Wandsworth,Entire home/apt,128.47,5,4,329,2.54
+Wandsworth,Entire home/apt,91.91,7,39,354,0.72
+Tower Hamlets,Private room,51.5,1,10,107,1.92
+Southwark,Shared room,24.87,17,218,150,6.08
+Tower Hamlets,Private room,58.23,21,299,89,3.39
+Westminster,Entire home/apt,352.93,22,283,311,0.26
+Camden,Shared room,45.57,13,102,105,1.34
+Hammersmith,Entire home/apt,178.22,1,70,55,1.97
+Southwark,Private room,80.53,10,170,142,2.68
+Southwark,Entire home/apt,113.23,22,3,350,2.06
+Kensington and Chelsea,Entire home/apt,178.27,23,97,100,1.14
+Southwark,Entire home/apt,290.91,4,254,206,0.69
+Tower Hamlets,Entire home/apt,100.08,10,0,166,2.18
+Westminster,Entire home/apt,243.78,10,245,89,1.82
+Lambeth,Private room,50.3,4,58,323,1.4
+Camden,Shared room,48.55,15,167,47,1.09
+Camden,Private room,70.18,17,79,184,3.2
+Tower Hamlets,Shared room,34.04,3,213,341,3.98
+Camden,Entire home/apt,70.93,17,75,310,0.06
+Tower Hamlets,Private room,81.88,21,83,206,3.46
+Southwark,Entire home/apt,129.19,17,36,332,2.1
+Camden,Entire home/apt,450.47,19,299,6,0.02
+Southwark,Entire home/apt,173.47,2,193,324,0.01
+Hammersmith,Entire home/apt,182.0,10,127,178,1.47
+Westminster,Private room,79.77,7,77,84,2.9
+Westminster,Entire home/apt,180.75,20,295,165,1.22
+Hackney,Private room,80.84,1,140,333,1.88
+Westminster,Shared room,57.73,25,70,218,1.91
+Kensington and Chelsea,Shared room,36.79,20,181,24,6.38
+Kensington and Chelsea,Entire home/apt,289.38,19,192,236,0.11
+Southwark,Entire home/apt,154.0,8,152,126,0.89
+Islington,Entire home/apt,428.61,6,86,200,0.01
+Camden,Shared room,41.43,24,117,190,1.88
+Tower Hamlets,Private room,67.16,4,18,16,0.48
+Camden,Entire home/apt,145.44,27,80,38,1.04
+Tower Hamlets,Shared room,36.34,24,284,195,1.57
+Southwark,Entire home/apt,295.67,25,210,267,0.29
+Kensington and Chelsea,Private room,107.83,3,213,282,0.84
+Tower Hamlets,Entire home/apt,135.07,17,108,128,0.54
+Islington,Entire home/apt,220.36,27,219,17,2.12
+Westminster,Private room,100.83,12,71,309,5.2
+Camden,Entire home/apt,172.34,9,200,199,6.81
+Hackney,Private room,49.09,14,219,157,4.52
+Tower Hamlets,Entire home/apt,112.49,16,165,310,0.1
+Kensington and Chelsea,Entire home/apt,168.08,7,184,350,1.35
+Southwark,Private room,135.49,15,107,121,3.09
+Islington,Private room,79.8,19,251,118,0.02
+Camden,Private room,58.3,12,270,77,3.37
+Southwark,Entire home/apt,230.82,3,2,213,2.26
+Hackney,Entire home/apt,117.38,7,268,321,0.27
+Islington,Private room,49.44,20,133,210,1.06
+Hammersmith,Entire home/apt,106.56,6,3,151,6.19
+Hackney,Entire home/apt,158.09,5,167,175,0.76
+Kensington and Chelsea,Entire home/apt,315.08,14,140,154,2.07
+Tower Hamlets,Entire home/apt,178.82,3,257,248,3.01
+Camden,Entire home/apt,304.49,15,106,322,0.7
+Hammersmith,Shared room,58.43,5,83,102,8.74
+Wandsworth,Entire home/apt,266.87,10,56,39,1.13
+Hackney,Entire home/apt,543.56,5,217,10,2.56
+Southwark,Private room,83.91,8,30,74,1.19
+Camden,Private room,201.66,20,225,198,0.71
+Lambeth,Private room,71.02,2,213,339,0.24
+Westminster,Private room,90.64,5,48,51,0.62
+Camden,Entire home/apt,189.36,21,292,242,0.69
+Hammersmith,Entire home/apt,160.42,27,175,299,3.17
+Westminster,Entire home/apt,192.33,2,168,314,4.83
+Southwark,Entire home/apt,611.38,20,279,188,0.16
+Hammersmith,Private room,75.5,15,52,186,0.97
+Islington,Private room,43.0,21,223,153,1.41
+Hackney,Private room,97.96,19,38,259,1.25
+Kensington and Chelsea,Entire home/apt,124.8,20,10,96,12.64
+Westminster,Private room,175.67,3,290,158,0.59
+Westminster,Private room,175.02,6,83,190,0.9
+Camden,Entire home/apt,329.34,9,257,187,3.07
+Hammersmith,Entire home/apt,223.94,4,84,48,0.83
+Westminster,Shared room,77.34,21,229,254,0.62
+Kensington and Chelsea,Entire home/apt,320.77,15,122,143,0.08
+Southwark,Entire home/apt,163.64,2,154,165,1.39
+Lambeth,Private room,75.23,11,263,96,1.6
+Lambeth,Entire home/apt,129.79,25,92,264,0.19
+Hammersmith,Private room,135.82,22,79,291,0.42
+Lambeth,Entire home/apt,135.21,29,101,165,0.45
+Southwark,Entire home/apt,217.65,9,248,90,0.64
+Hammersmith,Entire home/apt,268.51,8,214,220,2.25
+Islington,Private room,63.36,9,282,57,0.28
+Wandsworth,Private room,51.39,10,152,181,0.8
+Lambeth,Private room,70.15,6,52,65,0.15
+Camden,Private room,67.41,1,208,250,6.34
+Tower Hamlets,Shared room,45.68,9,258,45,2.98
+Kensington and Chelsea,Entire home/apt,378.96,1,23,34,7.47
+Tower Hamlets,Private room,66.02,16,58,242,0.53
+Wandsworth,Entire home/apt,149.0,4,298,324,1.04
+Hammersmith,Entire home/apt,357.01,2,102,296,0.88
+Islington,Private room,39.75,17,25,160,0.22
+Camden,Private room,72.15,7,131,275,1.21
+Tower Hamlets,Entire home/apt,38.84,3,111,285,0.2
+Wandsworth,Private room,139.44,16,82,64,0.23
+Hackney,Entire home/apt,87.96,21,163,67,5.15
+Southwark,Entire home/apt,215.04,16,168,21,0.52
+Tower Hamlets,Private room,38.07,22,89,84,1.13
+Hackney,Private room,95.04,14,48,100,0.41
+Westminster,Shared room,40.82,20,1,242,0.51
+Southwark,Private room,101.26,4,139,28,1.12
+Islington,Entire home/apt,110.61,10,170,336,6.11
+Hammersmith,Private room,90.42,1,99,145,0.62
+Wandsworth,Entire home/apt,120.61,6,119,169,0.06
+Tower Hamlets,Private room,44.38,25,171,230,0.54
+Hackney,Entire home/apt,99.54,13,209,254,0.39
+Wandsworth,Private room,74.02,13,195,352,6.73
+Southwark,Entire home/apt,223.77,5,44,136,0.13
+Westminster,Entire home/apt,437.37,18,203,28,3.39
+Wandsworth,Entire home/apt,136.5,3,67,24,2.47
+Islington,Shared room,33.28,23,129,245,0.12
+Camden,Entire home/apt,165.88,10,299,329,2.63
+Wandsworth,Private room,31.28,7,254,54,0.71
+Hackney,Entire home/apt,135.63,11,187,185,4.43
+Westminster,Private room,172.95,11,145,84,1.97
+Tower Hamlets,Entire home/apt,124.22,18,254,29,1.41
+Wandsworth,Shared room,43.09,19,275,280,2.18
+Kensington and Chelsea,Private room,117.57,27,189,82,1.46
+Hammersmith,Private room,104.31,28,168,288,1.17
+Hackney,Entire home/apt,152.67,12,71,132,1.16
+Southwark,Private room,78.83,26,132,21,2.69
+Westminster,Entire home/apt,243.24,21,285,281,0.89
+Islington,Entire home/apt,151.54,16,240,133,3.23
+Lambeth,Entire home/apt,318.12,28,272,246,0.49
+Hammersmith,Private room,111.18,22,245,261,1.33
+Hackney,Private room,67.22,8,88,140,1.23
+Hammersmith,Private room,123.13,27,8,78,1.26
+Wandsworth,Private room,52.45,6,130,119,3.86
+Islington,Entire home/apt,396.02,17,209,102,0.73
+Southwark,Shared room,38.34,1,90,91,1.91
+Camden,Entire home/apt,71.68,9,129,292,0.57
+Kensington and Chelsea,Entire home/apt,385.38,14,28,142,1.06
+Hammersmith,Private room,133.2,16,191,159,0.84
+Camden,Entire home/apt,208.88,26,255,280,0.06
+Southwark,Private room,72.06,26,293,86,0.29
+Westminster,Entire home/apt,215.93,12,27,16,4.77
+Kensington and Chelsea,Entire home/apt,330.16,3,75,230,3.13
+Kensington and Chelsea,Entire home/apt,91.55,1,93,173,0.03
+Islington,Entire home/apt,296.15,8,104,26,5.38
+Islington,Private room,90.08,21,19,254,3.41
+Tower Hamlets,Private room,62.9,2,120,25,1.33
+Wandsworth,Private room,106.63,19,47,312,6.56
+Southwark,Private room,77.16,7,204,184,3.26
+Hackney,Private room,89.95,24,211,15,0.19
+Hammersmith,Private room,99.53,14,255,253,0.61
+Wandsworth,Entire home/apt,153.24,28,14,291,0.2
+Southwark,Entire home/apt,153.83,9,279,304,0.97
+Tower Hamlets,Private room,61.23,26,28,150,3.84
+Westminster,Entire home/apt,137.26,21,278,56,0.9
+Hammersmith,Entire home/apt,323.44,7,76,150,0.83
+Westminster,Private room,90.5,18,72,188,2.59
+Hackney,Entire home/apt,150.7,20,195,329,0.55
+Southwark,Entire home/apt,339.45,16,217,252,1.19
+Westminster,Entire home/apt,292.82,8,11,290,1.19
+Camden,Entire home/apt,68.08,16,272,287,0.56
+Kensington and Chelsea,Entire home/apt,208.27,21,258,102,0.83
+Westminster,Shared room,59.8,13,225,236,3.83
+Hammersmith,Private room,143.73,24,284,105,0.62
+Kensington and Chelsea,Entire home/apt,158.9,26,23,108,1.75
+Wandsworth,Entire home/apt,149.89,3,181,361,1.5
+Southwark,Entire home/apt,252.73,11,266,286,4.01
+Islington,Entire home/apt,114.84,11,100,164,2.82
+Camden,Entire home/apt,143.02,12,129,83,0.22
+Tower Hamlets,Private room,29.16,2,122,135,4.17
+Southwark,Private room,188.9,18,117,201,1.96
+Hackney,Entire home/apt,95.81,7,77,74,0.07
+Southwark,Private room,90.53,15,210,47,3.62
+Tower Hamlets,Entire home/apt,104.7,4,8,120,8.62
+Southwark,Private room,42.94,18,242,240,0.11
+Camden,Private room,38.76,15,134,221,7.02
+Westminster,Entire home/apt,340.11,6,261,282,0.31
+Southwark,Entire home/apt,168.47,10,162,115,5.91
+Camden,Entire home/apt,293.28,28,279,135,1.37
+Southwark,Entire home/apt,300.21,17,285,327,0.91
+Hammersmith,Entire home/apt,135.51,2,6,126,1.04
+Islington,Entire home/apt,196.9,18,131,363,0.99
+Islington,Entire home/apt,114.09,5,222,249,3.7
+Kensington and Chelsea,Private room,114.97,26,8,303,1.07
+Wandsworth,Entire home/apt,96.27,10,280,77,0.18
+Hackney,Private room,47.38,10,190,323,1.6
+Southwark,Private room,45.49,14,239,338,3.81
+Hackney,Entire home/apt,246.22,12,261,106,0.83
+Camden,Private room,78.32,2,224,201,1.79
+Islington,Private room,135.4,6,235,126,3.51
+Hackney,Entire home/apt,346.24,1,234,288,1.18
+Southwark,Entire home/apt,107.1,9,86,241,6.06
+Southwark,Shared room,41.34,18,280,322,0.86
+Islington,Private room,74.82,16,7,294,1.33
+Westminster,Entire home/apt,227.08,8,218,347,0.92
+Westminster,Private room,208.86,29,8,288,5.42
+Southwark,Entire home/apt,154.11,5,265,261,1.93
+Wandsworth,Entire home/apt,141.15,8,9,232,1.05
+Hammersmith,Entire home/apt,128.52,17,216,10,0.98
+Tower Hamlets,Entire home/apt,221.11,8,55,117,1.24
+Kensington and Chelsea,Entire home/apt,161.0,20,234,342,1.08
+Islington,Entire home/apt,177.21,29,191,102,1.46
+Islington,Private room,86.72,16,89,231,6.2
+Camden,Shared room,38.59,24,144,129,1.27
+Camden,Private room,87.44,27,142,222,1.4
+Westminster,Private room,62.93,8,223,269,0.47
+Islington,Private room,127.81,5,239,362,0.22
+Wandsworth,Private room,76.75,3,61,108,0.62
+Islington,Private room,95.35,8,51,90,2.01
+Westminster,Shared room,56.38,16,135,361,1.16
+Camden,Private room,39.44,17,207,18,1.48
+Kensington and Chelsea,Entire home/apt,350.77,26,299,331,0.42
+Wandsworth,Entire home/apt,152.38,16,95,344,2.66
+Lambeth,Shared room,28.91,6,181,248,0.34
+Camden,Entire home/apt,175.58,25,95,345,0.4
+Hammersmith,Private room,157.16,27,132,278,0.24
+Lambeth,Entire home/apt,150.64,8,275,178,0.44
+Southwark,Entire home/apt,162.63,27,53,33,0.1
+Hammersmith,Entire home/apt,242.81,23,45,311,0.42
+Wandsworth,Private room,91.08,17,43,127,2.32
+Westminster,Shared room,41.03,3,44,107,0.88
+Westminster,Private room,155.71,6,189,174,5.17
+Southwark,Private room,90.08,8,203,212,2.6
+Hackney,Entire home/apt,152.74,18,179,170,1.1
+Westminster,Entire home/apt,113.79,13,137,326,1.06
+Westminster,Entire home/apt,370.98,23,24,126,1.49
+Islington,Entire home/apt,160.74,26,279,10,0.07
+Hackney,Private room,74.33,23,82,228,0.11
+Westminster,Private room,107.3,7,158,127,1.99
+Camden,Entire home/apt,420.53,4,28,193,6.43
+Islington,Entire home/apt,196.58,17,123,18,0.17
+Kensington and Chelsea,Private room,158.96,24,60,25,0.16
+Islington,Private room,81.3,11,156,362,1.23
+Hackney,Private room,71.63,29,91,285,1.37
+Wandsworth,Private room,81.39,1,114,261,0.31
+Westminster,Entire home/apt,89.82,3,205,286,0.91
+Islington,Entire home/apt,159.87,4,144,85,1.87
+Camden,Private room,68.68,20,148,204,2.13
+Islington,Entire home/apt,104.71,23,166,160,0.16
+Tower Hamlets,Private room,62.16,8,274,352,4.87
+Lambeth,Entire home/apt,108.17,18,149,45,0.83
+Westminster,Entire home/apt,158.69,14,151,322,0.97
+Westminster,Private room,61.69,16,190,11,0.58
+Westminster,Entire home/apt,319.87,11,184,120,1.29
+Hammersmith,Entire home/apt,195.89,6,215,42,0.43
+Hammersmith,Private room,90.47,18,21,360,0.45
+Hammersmith,Entire home/apt,153.03,24,175,357,1.04
+Lambeth,Private room,56.0,12,169,38,1.15
+Tower Hamlets,Entire home/apt,134.69,1,140,145,5.91
+Kensington and Chelsea,Entire home/apt,269.19,9,265,187,2.26
+Hackney,Private room,97.89,6,55,318,1.38
+Tower Hamlets,Private room,38.67,18,104,87,1.12
+Tower Hamlets,Entire home/apt,126.52,26,93,297,2.61
+Westminster,Private room,46.83,20,60,148,2.83
+Lambeth,Entire home/apt,99.25,1,285,352,2.08
+Tower Hamlets,Entire home/apt,176.82,24,25,193,1.5
+Westminster,Entire home/apt,372.61,19,162,298,1.46
+Westminster,Entire home/apt,110.08,11,137,186,3.25
+Hammersmith,Private room,51.14,10,25,55,1.88
+Hammersmith,Entire home/apt,414.32,20,90,21,1.23
+Westminster,Private room,123.86,20,52,355,0.52
+Tower Hamlets,Entire home/apt,71.5,10,298,166,1.07
+Hackney,Private room,61.71,15,6,271,2.96
+Southwark,Private room,129.01,8,160,65,3.29
+Tower Hamlets,Entire home/apt,177.32,11,201,131,2.18
+Wandsworth,Entire home/apt,140.33,16,32,57,0.24
+Hackney,Private room,103.26,29,41,84,1.14
+Hackney,Entire home/apt,197.65,9,214,70,0.38
+Wandsworth,Entire home/apt,63.0,6,161,190,1.25
+Westminster,Private room,79.55,2,168,61,4.72
+Tower Hamlets,Entire home/apt,159.28,15,7,153,0.68
+Southwark,Private room,48.35,16,103,229,2.67
+Camden,Private room,96.2,7,256,294,1.61
+Tower Hamlets,Entire home/apt,291.96,2,109,32,1.6
+Hammersmith,Entire home/apt,147.65,1,0,132,1.26
+Westminster,Entire home/apt,581.4,3,122,319,3.22
+Wandsworth,Entire home/apt,269.46,21,204,314,0.4
+Lambeth,Entire home/apt,83.43,4,53,280,1.82
+Lambeth,Entire home/apt,139.52,10,289,42,2.94
+Lambeth,Entire home/apt,111.05,10,203,0,1.04
+Camden,Entire home/apt,236.21,21,7,329,4.69
+Camden,Entire home/apt,210.71,11,275,276,1.79
+Camden,Entire home/apt,126.05,26,200,114,3.63
+Islington,Entire home/apt,121.4,26,110,358,4.78
+Hackney,Entire home/apt,168.94,29,152,103,1.98
+Islington,Entire home/apt,177.67,23,46,12,0.76
+Camden,Private room,58.58,28,76,168,0.17
+Southwark,Entire home/apt,89.6,16,229,95,1.33
+Hammersmith,Entire home/apt,116.51,9,192,329,0.78
+Hackney,Private room,163.55,9,284,273,3.6
+Camden,Entire home/apt,160.97,26,103,169,3.23
+Camden,Entire home/apt,128.03,28,135,222,2.88
+Lambeth,Entire home/apt,106.01,17,141,8,1.32
+Southwark,Entire home/apt,88.44,20,135,3,4.83
+Kensington and Chelsea,Entire home/apt,526.94,12,47,239,0.38
+Tower Hamlets,Private room,55.58,9,3,75,0.66
+Hammersmith,Entire home/apt,199.38,13,38,313,0.28
+Hackney,Entire home/apt,163.19,2,265,204,3.34
+Westminster,Entire home/apt,170.09,16,83,142,1.67
+Westminster,Private room,123.71,15,111,143,2.79
+Kensington and Chelsea,Entire home/apt,168.32,29,267,83,0.89
+Southwark,Entire home/apt,178.4,22,288,285,6.15
+Camden,Entire home/apt,55.79,23,205,93,0.9
+Islington,Entire home/apt,184.47,14,248,245,0.69
+Wandsworth,Entire home/apt,103.38,24,65,149,1.54
+Kensington and Chelsea,Entire home/apt,209.94,5,54,60,1.27
+Lambeth,Entire home/apt,52.67,20,270,192,0.55
+Lambeth,Entire home/apt,129.84,18,66,9,0.85
+Westminster,Entire home/apt,356.32,27,112,132,2.91
+Wandsworth,Entire home/apt,248.81,23,75,157,0.47
+Hackney,Entire home/apt,123.92,9,166,129,2.47
+Southwark,Entire home/apt,145.75,4,192,190,3.91
+Kensington and Chelsea,Entire home/apt,291.99,15,299,109,1.92
+Kensington and Chelsea,Entire home/apt,132.85,20,139,189,0.62
+Southwark,Private room,107.88,25,267,280,1.41
+Wandsworth,Entire home/apt,138.42,20,176,13,0.46
+Wandsworth,Entire home/apt,207.67,5,104,146,1.32
+Lambeth,Entire home/apt,136.32,14,256,345,4.83
+Hammersmith,Entire home/apt,309.15,16,269,220,0.28
+Islington,Entire home/apt,85.83,10,214,327,1.13
+Tower Hamlets,Shared room,30.36,21,92,320,0.12
+Westminster,Private room,73.75,20,206,268,1.32
+Hackney,Entire home/apt,286.34,24,10,186,0.67
+Hammersmith,Entire home/apt,129.39,12,137,318,0.77
+Camden,Private room,94.48,7,240,69,0.02
+Southwark,Shared room,38.7,9,265,9,4.27
+Islington,Private room,35.14,5,118,66,1.05
+Southwark,Entire home/apt,179.81,28,278,108,0.26
+Lambeth,Private room,54.95,26,217,221,2.9
+Lambeth,Entire home/apt,175.45,7,241,89,1.62
+Islington,Private room,72.76,22,233,234,4.03
+Wandsworth,Shared room,48.18,3,276,319,1.7
+Camden,Shared room,55.58,3,270,95,0.49
+Southwark,Private room,64.33,21,117,191,1.76
+Hackney,Entire home/apt,174.95,15,243,72,1.74
+Camden,Entire home/apt,180.3,19,72,122,1.96
+Lambeth,Private room,101.68,26,252,12,3.41
+Hackney,Entire home/apt,128.16,26,172,155,2.11
+Camden,Entire home/apt,203.64,10,272,67,1.05
+Tower Hamlets,Entire home/apt,160.19,25,88,197,1.86
+Hackney,Entire home/apt,226.2,18,181,256,0.39
+Islington,Private room,54.93,15,7,37,5.89
+Kensington and Chelsea,Private room,82.32,7,137,101,0.24
+Wandsworth,Entire home/apt,36.18,19,286,179,3.17
+Kensington and Chelsea,Private room,92.97,23,47,108,1.42
+Lambeth,Private room,77.41,13,89,341,0.59
+Wandsworth,Entire home/apt,154.37,17,45,273,1.65
+Westminster,Entire home/apt,236.43,28,59,248,1.9
+Islington,Entire home/apt,127.34,25,1,23,3.02
+Islington,Private room,110.91,27,166,206,0.36
+Kensington and Chelsea,Entire home/apt,322.35,25,256,234,0.62
+Lambeth,Private room,36.24,24,110,217,2.55
+Wandsworth,Entire home/apt,110.6,6,117,197,0.0
+Kensington and Chelsea,Private room,49.91,26,291,287,2.05
+Islington,Entire home/apt,66.5,10,59,256,9.81
+Westminster,Private room,62.69,25,47,327,5.98
+Kensington and Chelsea,Private room,136.25,5,215,88,0.13
+Westminster,Entire home/apt,73.83,2,144,60,4.37
+Tower Hamlets,Entire home/apt,132.95,11,56,49,3.11
+Camden,Entire home/apt,382.59,11,246,147,0.14
+Lambeth,Private room,57.0,2,64,87,5.95
+Lambeth,Entire home/apt,68.48,15,93,306,0.43
+Hammersmith,Private room,163.99,27,11,301,1.72
+Wandsworth,Entire home/apt,287.55,23,16,330,0.62
+Wandsworth,Private room,68.77,21,42,114,1.63
+Westminster,Entire home/apt,256.83,17,172,153,0.44
+Hammersmith,Entire home/apt,144.64,28,167,165,0.33
+Wandsworth,Private room,105.42,11,125,169,0.71
+Westminster,Entire home/apt,472.22,3,157,140,1.78
+Wandsworth,Private room,125.16,29,86,257,2.33
+Westminster,Private room,103.6,11,253,286,0.05
+Southwark,Entire home/apt,94.48,18,94,267,1.7
+Lambeth,Entire home/apt,217.55,11,58,163,1.37
+Kensington and Chelsea,Entire home/apt,118.77,23,44,256,3.49
+Southwark,Private room,155.45,11,66,112,0.18
+Hammersmith,Private room,49.81,28,115,50,1.62
+Westminster,Private room,93.77,10,174,183,2.43
+Westminster,Entire home/apt,172.97,12,0,130,1.47
+Hackney,Entire home/apt,115.45,1,99,188,4.86
+Hammersmith,Entire home/apt,225.87,22,175,340,2.86
+Tower Hamlets,Private room,46.08,11,222,212,4.46
+Hammersmith,Entire home/apt,308.13,15,246,315,8.24
+Tower Hamlets,Entire home/apt,169.37,19,173,277,0.92
+Wandsworth,Entire home/apt,161.0,6,54,306,1.9
+Westminster,Entire home/apt,361.21,5,197,158,4.09
+Wandsworth,Private room,93.23,24,73,40,4.1
+Hackney,Entire home/apt,194.88,20,86,108,1.03
+Westminster,Private room,122.5,23,285,95,0.16
+Islington,Entire home/apt,256.42,17,124,131,3.58
+Westminster,Entire home/apt,166.54,1,259,38,0.79
+Hammersmith,Private room,111.41,8,275,15,10.8
+Islington,Shared room,41.61,20,41,11,2.76
+Wandsworth,Entire home/apt,330.66,19,217,136,2.14
+Kensington and Chelsea,Shared room,74.49,18,140,198,0.64
+Southwark,Entire home/apt,255.43,15,202,84,3.11
+Tower Hamlets,Private room,53.69,1,257,274,1.79
+Hammersmith,Private room,118.7,29,16,88,0.58
+Tower Hamlets,Private room,63.14,4,263,222,0.59
+Wandsworth,Entire home/apt,203.96,13,3,341,1.7
+Kensington and Chelsea,Entire home/apt,119.34,23,267,10,5.05
+Wandsworth,Private room,112.18,22,18,115,1.56
+Westminster,Private room,199.9,16,58,96,2.23
+Southwark,Private room,94.56,9,282,272,1.34
+Kensington and Chelsea,Entire home/apt,298.99,12,5,296,3.67
+Camden,Shared room,63.16,1,135,24,2.65
+Islington,Private room,87.49,1,110,145,3.67
+Islington,Entire home/apt,92.79,16,37,134,1.85
+Southwark,Entire home/apt,147.37,27,28,143,0.1
+Southwark,Shared room,51.99,25,268,327,2.26
+Wandsworth,Private room,115.03,24,209,28,2.78
+Tower Hamlets,Entire home/apt,84.55,24,225,45,8.22
+Hackney,Entire home/apt,266.26,23,53,137,1.2
+Wandsworth,Entire home/apt,71.05,5,85,255,2.04
+Lambeth,Entire home/apt,222.17,24,177,244,4.42
+Kensington and Chelsea,Private room,56.12,17,267,259,0.23
+Wandsworth,Private room,70.84,5,68,80,0.76
+Lambeth,Entire home/apt,117.21,16,212,321,3.61
+Southwark,Entire home/apt,194.53,14,199,209,1.46
+Hammersmith,Shared room,72.96,1,156,260,0.15
+Islington,Private room,87.13,15,231,194,0.2
+Islington,Entire home/apt,93.57,11,295,329,2.68
+Hackney,Private room,46.7,11,114,364,2.34
+Tower Hamlets,Entire home/apt,165.08,13,160,4,2.78
+Islington,Entire home/apt,373.57,19,94,222,0.19
+Islington,Entire home/apt,202.13,22,111,350,6.16
+Lambeth,Private room,72.09,18,123,18,0.39
+Lambeth,Private room,63.82,2,39,37,0.2
+Westminster,Shared room,92.79,4,136,345,0.84
+Lambeth,Private room,179.26,26,58,27,1.73
+Kensington and Chelsea,Private room,135.57,24,178,287,0.95
+Camden,Entire home/apt,125.48,12,188,65,5.09
+Tower Hamlets,Entire home/apt,100.86,28,293,169,2.76
+Lambeth,Shared room,39.96,18,69,337,0.44
+Kensington and Chelsea,Private room,111.49,22,54,268,2.54
+Lambeth,Private room,75.11,1,284,47,5.15
+Hackney,Entire home/apt,268.72,3,172,140,5.4
+Lambeth,Entire home/apt,108.48,25,171,315,0.68
+Islington,Entire home/apt,231.4,29,20,256,1.0
+Westminster,Entire home/apt,205.7,3,226,283,5.52
+Islington,Private room,61.03,24,233,332,0.77
+Southwark,Entire home/apt,109.59,28,285,17,0.59
+Hackney,Entire home/apt,383.61,18,224,216,0.52
+Southwark,Private room,43.34,2,234,106,1.99
+Camden,Entire home/apt,397.43,21,75,34,0.41
+Wandsworth,Entire home/apt,111.13,16,159,83,1.07
+Tower Hamlets,Entire home/apt,417.32,3,228,85,2.35
+Westminster,Entire home/apt,275.25,9,290,249,2.62
+Camden,Private room,67.56,22,143,145,0.25
+Tower Hamlets,Entire home/apt,196.78,10,232,270,3.62
+Hackney,Entire home/apt,63.48,13,231,360,4.27
+Islington,Entire home/apt,78.03,16,233,183,1.97
+Lambeth,Entire home/apt,125.29,4,126,134,1.83
+Islington,Shared room,28.9,3,193,109,0.03
+Tower Hamlets,Entire home/apt,74.76,26,16,215,4.38
+Lambeth,Private room,31.52,15,106,145,0.76
+Westminster,Entire home/apt,201.08,22,34,283,4.54
+Lambeth,Entire home/apt,286.35,15,20,307,1.05
+Westminster,Entire home/apt,347.63,12,192,242,0.74
+Wandsworth,Private room,52.67,28,234,183,1.07
+Hackney,Entire home/apt,252.52,9,25,342,1.28
+Tower Hamlets,Entire home/apt,327.18,7,50,80,0.6
+Westminster,Entire home/apt,156.31,20,141,355,2.93
+Kensington and Chelsea,Entire home/apt,277.98,1,18,126,0.87
+Lambeth,Private room,67.07,22,104,235,6.94
+Hammersmith,Shared room,38.85,29,257,163,0.38
+Hammersmith,Private room,191.29,28,170,249,2.88
+Tower Hamlets,Entire home/apt,176.57,20,127,92,0.28
+Islington,Entire home/apt,165.65,26,292,221,2.03
+Hackney,Private room,58.34,11,262,48,5.1
+Southwark,Entire home/apt,248.52,5,220,90,1.19
+Tower Hamlets,Entire home/apt,107.96,13,190,348,1.21
+Lambeth,Private room,76.48,21,203,266,0.76
+Wandsworth,Shared room,29.27,3,195,342,4.78
+Tower Hamlets,Private room,43.94,17,153,248,1.04
+Tower Hamlets,Private room,39.3,13,1,87,2.24
+Camden,Private room,185.83,3,235,127,2.96
+Camden,Private room,59.19,22,137,20,0.46
+Islington,Private room,66.26,20,161,356,0.02
+Kensington and Chelsea,Private room,186.4,11,242,248,0.23
+Southwark,Entire home/apt,231.7,10,11,262,7.8
+Hammersmith,Entire home/apt,151.01,15,32,61,3.28
+Hackney,Entire home/apt,121.14,19,24,56,6.45
+Westminster,Entire home/apt,548.88,8,195,132,1.31
+Islington,Private room,76.97,17,15,144,0.47
+Islington,Entire home/apt,145.1,2,281,65,2.32
+Islington,Entire home/apt,399.12,10,270,41,1.33
+Islington,Entire home/apt,210.61,28,264,113,0.22
+Tower Hamlets,Private room,61.93,29,261,330,0.77
+Hackney,Entire home/apt,269.87,29,187,253,0.24
+Tower Hamlets,Private room,39.96,26,227,321,1.97
+Camden,Entire home/apt,224.67,16,41,109,1.05
+Hackney,Private room,101.31,22,111,273,9.08
+Southwark,Entire home/apt,125.89,9,280,122,5.42
+Tower Hamlets,Entire home/apt,191.59,5,196,179,2.29
+Southwark,Entire home/apt,320.05,29,264,92,1.55
+Hammersmith,Private room,41.96,10,133,317,6.03
+Hammersmith,Entire home/apt,87.86,27,186,318,0.91
+Hackney,Private room,72.5,24,178,179,1.38
+Camden,Entire home/apt,174.5,11,271,58,6.58
+Camden,Entire home/apt,203.73,7,53,182,3.28
+Hackney,Shared room,39.87,1,67,27,3.24
+Kensington and Chelsea,Entire home/apt,343.71,1,7,50,0.29
+Kensington and Chelsea,Entire home/apt,280.2,23,191,248,0.0
+Southwark,Entire home/apt,165.05,17,252,121,0.8
+Lambeth,Entire home/apt,164.44,5,209,217,0.95
+Kensington and Chelsea,Private room,141.5,11,34,288,5.53
+Hammersmith,Private room,43.25,14,0,318,1.26
+Islington,Entire home/apt,224.56,5,251,11,0.95
+Tower Hamlets,Entire home/apt,105.95,19,238,267,2.59
+Hammersmith,Private room,69.43,15,226,24,0.89
+Lambeth,Entire home/apt,103.26,20,206,343,1.2
+Wandsworth,Entire home/apt,140.5,21,58,68,0.21
+Lambeth,Entire home/apt,88.86,17,113,183,0.05
+Lambeth,Private room,113.38,3,290,179,3.13
+Camden,Entire home/apt,100.72,4,153,303,0.58
+Kensington and Chelsea,Entire home/apt,143.45,27,57,139,0.04
+Hackney,Entire home/apt,113.06,7,232,326,0.13
+Hammersmith,Entire home/apt,202.85,9,175,329,1.43
+Westminster,Entire home/apt,161.52,1,264,134,4.14
+Islington,Private room,67.41,29,249,297,0.15
+Southwark,Shared room,43.92,18,163,91,0.2
+Southwark,Private room,85.52,8,53,177,3.53
+Islington,Entire home/apt,295.3,22,46,4,0.08
+Lambeth,Entire home/apt,91.85,3,169,81,2.04
+Hammersmith,Private room,41.28,26,251,342,0.96
+Wandsworth,Private room,67.37,7,279,71,1.57
+Southwark,Entire home/apt,292.49,19,151,355,4.68
+Lambeth,Entire home/apt,158.25,29,259,71,0.37
+Westminster,Entire home/apt,136.8,25,217,106,0.36
+Islington,Entire home/apt,234.59,2,107,308,3.54
+Tower Hamlets,Private room,77.35,17,267,127,0.76
+Wandsworth,Entire home/apt,130.67,20,79,133,1.97
+Tower Hamlets,Private room,73.16,6,70,213,0.13
+Tower Hamlets,Private room,91.75,18,157,97,0.37
+Kensington and Chelsea,Private room,276.36,8,242,17,0.78
+Kensington and Chelsea,Private room,92.43,28,21,171,2.43
+Wandsworth,Entire home/apt,209.05,14,134,364,0.19
+Hackney,Private room,33.23,29,190,324,1.38
+Hammersmith,Private room,127.34,29,13,230,3.57
+Lambeth,Entire home/apt,148.81,6,186,195,7.89
+Hackney,Entire home/apt,69.23,28,89,307,4.37
+Kensington and Chelsea,Private room,87.27,5,141,251,0.52
+Lambeth,Entire home/apt,179.86,4,167,50,2.39
+Westminster,Entire home/apt,227.25,28,205,227,0.04
+Tower Hamlets,Entire home/apt,61.73,27,244,44,2.12
+Wandsworth,Entire home/apt,69.74,14,135,175,0.25
+Camden,Private room,101.72,24,176,242,1.17
+Wandsworth,Private room,49.21,24,96,143,0.8
+Islington,Private room,99.7,8,181,269,10.85
+Southwark,Entire home/apt,64.26,6,299,17,0.11
+Tower Hamlets,Entire home/apt,161.88,8,92,217,1.48
+Hammersmith,Private room,89.77,15,163,12,0.07
+Southwark,Entire home/apt,157.22,5,75,163,3.32
+Kensington and Chelsea,Private room,75.02,24,276,160,0.37
+Wandsworth,Private room,41.39,19,94,245,0.33
+Lambeth,Entire home/apt,212.61,29,50,177,1.2
+Islington,Private room,83.13,5,235,47,1.07
+Southwark,Private room,118.68,19,61,118,0.34
+Lambeth,Entire home/apt,134.12,10,7,3,0.99
+Southwark,Private room,130.81,25,41,91,0.29
+Tower Hamlets,Shared room,39.65,2,75,352,1.76
+Southwark,Entire home/apt,188.48,4,37,51,3.24
+Islington,Entire home/apt,291.62,12,239,142,6.42
+Westminster,Entire home/apt,532.31,15,233,62,0.68
+Islington,Private room,54.34,21,51,318,6.73
+Wandsworth,Private room,219.37,10,259,196,0.76
+Wandsworth,Shared room,27.34,9,254,1,0.66
+Camden,Entire home/apt,111.94,5,211,155,0.63
+Hackney,Entire home/apt,201.91,4,255,48,3.27
+Islington,Private room,79.89,15,258,210,0.31
+Lambeth,Entire home/apt,321.31,13,250,330,1.51
+Wandsworth,Entire home/apt,344.58,10,216,319,1.99
+Wandsworth,Entire home/apt,149.47,10,147,104,1.08
+Southwark,Entire home/apt,254.87,14,71,139,2.85
+Southwark,Entire home/apt,177.39,28,106,219,1.4
+Hackney,Private room,83.44,25,230,274,1.26
+Hammersmith,Entire home/apt,240.86,1,165,127,7.67
+Hackney,Private room,64.63,15,110,89,3.51
+Southwark,Entire home/apt,330.17,9,97,119,1.16
+Islington,Private room,155.16,12,185,107,1.38
+Camden,Entire home/apt,106.12,29,131,143,6.13
+Camden,Entire home/apt,142.91,20,242,263,6.49
+Hackney,Private room,67.59,15,86,22,0.05
+Hackney,Shared room,38.34,2,66,134,0.37
+Hammersmith,Private room,54.01,17,155,146,0.31
+Tower Hamlets,Shared room,58.89,19,259,21,0.18
+Southwark,Private room,51.31,1,299,169,2.15
+Camden,Entire home/apt,611.5,3,235,199,1.27
+Hackney,Entire home/apt,193.89,9,265,85,0.78
+Wandsworth,Private room,78.93,15,85,221,0.48
+Southwark,Private room,80.87,28,249,47,1.11
+Hammersmith,Private room,101.14,4,286,363,0.98
+Hackney,Entire home/apt,136.4,20,151,151,2.14
+Kensington and Chelsea,Private room,131.23,9,70,77,0.99
+Wandsworth,Entire home/apt,151.6,13,212,110,1.83
+Islington,Entire home/apt,253.4,12,66,248,0.21
+Camden,Private room,57.01,22,283,53,3.86
+Tower Hamlets,Entire home/apt,112.91,7,46,221,2.23
+Wandsworth,Entire home/apt,329.09,11,149,256,0.05
+Southwark,Entire home/apt,125.95,7,58,53,0.08
+Islington,Private room,58.24,16,260,72,0.65
+Hammersmith,Private room,58.77,29,18,302,1.28
+Southwark,Entire home/apt,128.32,21,226,351,0.84
+Westminster,Entire home/apt,110.52,20,111,119,0.29
+Camden,Entire home/apt,345.45,29,220,210,1.36
+Lambeth,Entire home/apt,125.04,5,295,33,0.26
+Islington,Entire home/apt,306.14,27,77,77,1.94
+Westminster,Private room,50.34,16,23,213,0.72
+Kensington and Chelsea,Entire home/apt,422.86,22,293,329,1.08
+Lambeth,Private room,49.76,24,26,165,1.43
+Islington,Entire home/apt,183.42,13,103,244,0.1
+Tower Hamlets,Entire home/apt,133.99,2,99,4,5.41
+Camden,Shared room,44.81,21,265,36,1.49
+Islington,Entire home/apt,162.76,8,118,18,1.87
+Wandsworth,Entire home/apt,225.31,27,249,281,3.95
+Lambeth,Private room,88.62,8,2,27,2.09
+Islington,Private room,95.45,13,174,113,0.01
+Hammersmith,Entire home/apt,164.24,13,112,108,1.17
+Westminster,Private room,78.87,15,15,43,2.34
+Lambeth,Entire home/apt,54.92,4,94,55,1.36
+Islington,Private room,44.81,9,199,333,5.7
+Southwark,Shared room,50.12,27,83,47,1.97
+Kensington and Chelsea,Entire home/apt,218.9,6,281,49,2.64
+Kensington and Chelsea,Entire home/apt,217.28,29,267,240,2.66
+Wandsworth,Entire home/apt,169.37,5,24,271,1.4
+Westminster,Entire home/apt,400.03,28,140,355,2.6
+Lambeth,Private room,72.99,18,253,179,0.18
+Kensington and Chelsea,Entire home/apt,202.59,28,21,342,0.72
+Islington,Entire home/apt,65.73,5,12,27,1.63
+Westminster,Entire home/apt,88.41,4,225,169,1.65
+Camden,Entire home/apt,265.1,22,251,14,1.47
+Wandsworth,Private room,71.86,16,165,149,0.14
+Westminster,Private room,180.44,15,19,288,1.62
+Tower Hamlets,Private room,44.45,13,200,216,2.97
+Hammersmith,Private room,152.65,12,77,171,2.33
+Southwark,Private room,53.96,29,131,342,1.96
+Southwark,Entire home/apt,118.4,17,167,179,5.37
+Southwark,Entire home/apt,248.21,15,33,69,0.83
+Westminster,Entire home/apt,133.25,9,68,214,2.86
+Kensington and Chelsea,Entire home/apt,220.4,27,5,352,1.83
+Hackney,Private room,66.54,19,50,86,1.53
+Hackney,Entire home/apt,269.61,6,61,262,0.27
+Islington,Entire home/apt,62.95,26,245,18,3.58
+Tower Hamlets,Entire home/apt,287.91,22,9,320,0.31
+Kensington and Chelsea,Entire home/apt,96.35,18,193,171,2.18
+Lambeth,Entire home/apt,192.91,2,263,137,0.74
+Camden,Private room,84.09,8,118,142,6.02
+Camden,Shared room,32.82,3,294,52,3.34
+Kensington and Chelsea,Entire home/apt,415.44,2,140,107,0.06
+Wandsworth,Private room,70.8,11,151,289,3.07
+Islington,Entire home/apt,72.21,1,140,342,2.74
+Camden,Private room,157.3,25,117,4,3.24
+Hackney,Private room,59.24,28,145,276,1.34
+Kensington and Chelsea,Private room,104.88,25,250,149,0.95
+Kensington and Chelsea,Entire home/apt,147.55,3,166,297,0.42
+Camden,Shared room,40.6,25,108,315,5.74
+Islington,Entire home/apt,340.36,16,61,299,8.54
+Kensington and Chelsea,Private room,87.09,17,166,159,1.0
+Hammersmith,Private room,47.37,26,247,54,6.02
+Westminster,Entire home/apt,399.61,10,173,96,3.18
+Islington,Entire home/apt,309.46,29,26,359,1.04
+Hammersmith,Private room,54.22,9,228,124,3.59
+Islington,Entire home/apt,434.89,12,161,41,3.41
+Tower Hamlets,Entire home/apt,335.05,5,161,200,0.23
+Hackney,Entire home/apt,267.22,17,187,354,3.43
+Westminster,Entire home/apt,147.61,4,134,23,0.06
+Westminster,Entire home/apt,191.43,3,217,306,5.46
+Hackney,Entire home/apt,97.64,17,33,136,2.55
+Hackney,Entire home/apt,139.38,9,256,88,3.56
+Tower Hamlets,Entire home/apt,211.5,15,291,111,1.44
+Westminster,Entire home/apt,570.41,18,66,85,3.14
+Lambeth,Private room,56.95,16,23,290,4.83
+Kensington and Chelsea,Private room,107.65,12,189,354,1.0
+Kensington and Chelsea,Private room,114.64,11,69,255,0.97
+Wandsworth,Entire home/apt,32.81,3,2,83,5.26
+Hackney,Private room,67.78,11,154,276,1.07
+Camden,Private room,80.35,3,46,213,0.3
+Camden,Entire home/apt,133.54,14,231,315,2.01
+Hackney,Private room,50.65,6,82,26,2.98
+Lambeth,Entire home/apt,120.84,10,119,127,3.09
+Southwark,Shared room,63.07,26,13,49,0.74
+Southwark,Private room,43.21,4,37,356,2.56
+Wandsworth,Shared room,48.3,9,35,3,3.43
+Hammersmith,Private room,227.59,16,68,325,3.23
+Tower Hamlets,Entire home/apt,85.31,1,158,148,3.75
+Kensington and Chelsea,Entire home/apt,323.33,2,277,16,1.01
+Tower Hamlets,Entire home/apt,106.16,6,95,0,0.92
+Tower Hamlets,Private room,120.63,8,26,307,0.47
+Lambeth,Entire home/apt,141.73,5,81,218,0.15
+Lambeth,Private room,40.69,1,42,346,2.52
+Wandsworth,Entire home/apt,70.89,29,116,69,0.74
+Tower Hamlets,Private room,64.4,3,217,175,12.9
+Tower Hamlets,Private room,99.7,25,180,245,3.88
+Hammersmith,Entire home/apt,142.77,21,186,363,0.4
+Hammersmith,Private room,120.42,27,210,24,1.09
+Kensington and Chelsea,Entire home/apt,182.33,10,95,175,2.0
+Hammersmith,Entire home/apt,271.33,13,203,7,1.36
+Hackney,Entire home/apt,129.15,17,114,154,8.6
+Islington,Entire home/apt,244.33,26,70,6,4.87
+Hackney,Private room,56.18,5,86,184,2.6
+Lambeth,Entire home/apt,130.2,27,3,87,1.5
+Hackney,Private room,85.98,17,137,349,0.53
+Southwark,Entire home/apt,67.81,23,229,344,2.42
+Tower Hamlets,Private room,64.2,29,268,2,2.94
+Lambeth,Private room,43.67,7,132,311,1.59
+Westminster,Shared room,75.9,20,209,56,2.17
+Lambeth,Entire home/apt,403.59,13,292,339,0.52
+Lambeth,Entire home/apt,47.64,14,278,339,0.03
+Wandsworth,Private room,48.29,18,180,13,0.77
+Tower Hamlets,Private room,54.52,24,252,59,2.24
+Southwark,Entire home/apt,69.58,1,30,233,2.17
+Tower Hamlets,Private room,114.53,9,29,114,2.56
+Southwark,Entire home/apt,159.44,23,15,21,2.58
+Westminster,Entire home/apt,173.66,15,151,265,0.02
+Hackney,Entire home/apt,133.31,15,237,198,1.13
+Southwark,Entire home/apt,121.35,5,5,219,2.08
+Southwark,Private room,73.75,6,106,294,1.25
+Kensington and Chelsea,Entire home/apt,300.21,12,208,164,5.99
+Islington,Entire home/apt,393.53,1,101,356,0.13
+Camden,Private room,50.62,10,28,303,0.65
+Lambeth,Entire home/apt,182.44,10,268,46,5.6
+Lambeth,Entire home/apt,235.32,28,1,356,0.88
+Camden,Entire home/apt,171.77,20,156,34,0.51
+Westminster,Entire home/apt,431.34,7,66,220,0.41
+Islington,Entire home/apt,234.42,12,253,209,0.09
+Southwark,Entire home/apt,161.34,8,18,46,2.43
+Camden,Entire home/apt,139.3,2,4,92,2.06
+Tower Hamlets,Entire home/apt,213.71,15,211,7,1.75
+Southwark,Private room,144.3,27,235,288,1.16
+Tower Hamlets,Entire home/apt,123.33,11,54,257,0.46
+Lambeth,Entire home/apt,262.1,18,208,285,0.1
+Hammersmith,Shared room,27.86,11,212,17,1.09
+Kensington and Chelsea,Entire home/apt,149.74,4,277,39,2.16
+Camden,Entire home/apt,131.0,13,214,285,1.38
+Hammersmith,Entire home/apt,396.09,13,75,8,1.47
+Kensington and Chelsea,Entire home/apt,261.86,5,50,51,0.46
+Hammersmith,Private room,73.09,13,244,283,1.19
+Westminster,Private room,68.12,26,120,279,0.42
+Southwark,Entire home/apt,273.48,19,175,120,2.71
+Hackney,Private room,61.56,17,172,274,3.71
+Camden,Entire home/apt,352.09,11,44,86,0.64
+Southwark,Shared room,39.92,18,279,343,1.39
+Hammersmith,Entire home/apt,159.1,23,261,193,2.23
+Kensington and Chelsea,Private room,171.22,12,175,9,2.4
+Kensington and Chelsea,Private room,381.01,10,251,294,2.05
+Camden,Entire home/apt,296.64,3,232,215,0.73
+Hammersmith,Entire home/apt,165.01,27,92,338,1.45
+Hackney,Entire home/apt,131.74,24,129,174,1.44
+Islington,Entire home/apt,98.32,23,131,275,0.04
+Hackney,Entire home/apt,94.64,3,89,240,0.23
+Hackney,Entire home/apt,91.76,18,212,2,4.61
+Tower Hamlets,Private room,114.84,1,115,51,2.23
+Lambeth,Shared room,37.14,12,237,9,1.39
+Camden,Entire home/apt,110.52,26,177,356,0.04
+Hackney,Entire home/apt,392.97,4,280,299,2.94
+Hammersmith,Private room,65.58,26,251,87,1.62
+Hammersmith,Entire home/apt,232.49,28,267,74,2.76
+Southwark,Private room,140.21,5,254,125,2.92
+Lambeth,Entire home/apt,226.66,12,222,216,3.57
+Hammersmith,Entire home/apt,336.22,9,198,331,0.85
+Tower Hamlets,Entire home/apt,294.66,26,43,195,8.44
+Hackney,Entire home/apt,227.1,23,139,118,5.89
+Camden,Entire home/apt,192.91,8,182,133,2.82
+Islington,Entire home/apt,120.51,25,116,119,3.16
+Camden,Entire home/apt,325.23,7,123,244,1.06
+Tower Hamlets,Entire home/apt,324.55,13,49,104,0.19
+Kensington and Chelsea,Entire home/apt,159.77,17,136,339,1.46
+Camden,Entire home/apt,454.51,28,0,248,0.79
+Hackney,Shared room,37.25,14,200,221,7.11
+Camden,Private room,143.01,23,134,233,1.8
+Camden,Entire home/apt,208.93,4,141,209,0.58
+Hammersmith,Private room,41.49,15,95,348,2.78
+Lambeth,Entire home/apt,145.32,19,156,115,4.28
+Hammersmith,Entire home/apt,266.85,24,78,102,2.54
+Southwark,Shared room,57.4,21,99,237,0.34
+Islington,Entire home/apt,138.85,10,62,75,3.12
+Southwark,Private room,126.78,23,242,184,1.4
+Islington,Private room,153.6,14,46,78,1.31
+Camden,Private room,87.83,13,118,356,0.91
+Wandsworth,Private room,39.19,7,295,106,0.67
+Camden,Private room,130.74,6,287,193,0.61
+Islington,Entire home/apt,350.37,2,157,103,1.67
+Lambeth,Shared room,27.81,8,178,79,0.92
+Tower Hamlets,Entire home/apt,71.33,12,273,283,2.76
+Tower Hamlets,Entire home/apt,168.82,26,220,281,3.55
+Tower Hamlets,Entire home/apt,42.52,26,184,31,0.99
+Hammersmith,Private room,63.01,20,143,317,0.06
+Kensington and Chelsea,Entire home/apt,294.94,25,185,77,0.26
+Westminster,Entire home/apt,176.08,15,159,204,4.08
+Kensington and Chelsea,Entire home/apt,130.05,16,155,353,15.22
+Wandsworth,Private room,88.19,4,107,160,0.22
+Camden,Entire home/apt,130.32,25,44,79,4.15
+Westminster,Entire home/apt,195.03,24,279,115,0.16
+Tower Hamlets,Entire home/apt,80.77,28,248,110,5.27
+Hackney,Entire home/apt,100.06,20,91,211,0.77
+Hammersmith,Private room,53.39,13,133,329,1.6
+Lambeth,Entire home/apt,207.41,21,113,74,1.68
+Camden,Shared room,54.14,2,34,161,3.55
+Islington,Entire home/apt,218.6,24,181,146,1.87
+Hackney,Entire home/apt,140.46,17,41,28,4.73
+Westminster,Private room,175.04,24,188,359,2.32
+Tower Hamlets,Entire home/apt,161.79,19,158,328,5.6
+Hackney,Private room,79.02,16,56,74,2.43
+Westminster,Private room,104.85,11,119,245,1.64
+Southwark,Entire home/apt,57.63,10,135,230,4.8
+Kensington and Chelsea,Entire home/apt,330.14,22,240,319,1.92
+Westminster,Shared room,34.66,19,106,68,0.69
+Kensington and Chelsea,Entire home/apt,387.66,11,186,301,0.53
+Hackney,Entire home/apt,74.36,19,3,120,3.32
+Tower Hamlets,Private room,101.93,4,289,108,0.42
+Lambeth,Entire home/apt,31.32,17,145,251,0.26
+Camden,Entire home/apt,221.65,22,268,19,1.4
+Islington,Shared room,32.02,5,5,13,0.82
+Hackney,Entire home/apt,136.12,3,224,257,1.78
+Wandsworth,Entire home/apt,75.32,24,270,94,0.07
+Lambeth,Private room,117.79,17,207,295,0.75
+Wandsworth,Shared room,32.2,20,96,190,1.78
+Westminster,Entire home/apt,259.05,23,97,327,7.97
+Wandsworth,Entire home/apt,63.58,20,22,104,2.25
+Camden,Entire home/apt,173.97,14,294,240,0.22
+Lambeth,Private room,138.09,21,26,1,0.57
+Islington,Private room,83.91,24,229,27,1.14
+Camden,Entire home/apt,162.23,9,40,259,1.96
+Kensington and Chelsea,Private room,214.14,26,135,182,4.05
+Tower Hamlets,Private room,152.28,28,177,26,3.86
+Tower Hamlets,Entire home/apt,127.82,6,51,215,3.18
+Southwark,Entire home/apt,203.47,22,34,200,3.59
+Tower Hamlets,Private room,58.28,22,247,176,1.08
+Westminster,Entire home/apt,418.47,8,213,24,1.46
+Hackney,Entire home/apt,42.86,19,14,177,2.34
+Kensington and Chelsea,Entire home/apt,162.26,2,114,38,1.55
+Westminster,Entire home/apt,220.21,19,46,35,0.03
+Wandsworth,Entire home/apt,465.74,18,64,227,2.28
+Tower Hamlets,Entire home/apt,161.27,21,154,274,0.56
+Camden,Entire home/apt,214.85,3,103,50,0.78
+Southwark,Shared room,52.44,15,252,48,0.8
+Kensington and Chelsea,Private room,188.52,13,61,156,1.95
+Southwark,Entire home/apt,97.38,10,130,356,6.71
+Kensington and Chelsea,Entire home/apt,411.26,29,1,232,2.23
+Camden,Entire home/apt,188.8,5,71,282,2.09
+Hackney,Private room,35.22,13,82,252,0.81
+Westminster,Entire home/apt,115.5,12,106,35,2.59
+Wandsworth,Shared room,29.09,20,201,154,8.29
+Camden,Private room,105.58,2,246,311,4.5
+Islington,Entire home/apt,159.99,4,12,326,1.45
+Westminster,Private room,161.61,27,297,338,7.75
+Southwark,Entire home/apt,127.72,28,281,115,0.1
+Southwark,Entire home/apt,62.59,15,182,336,2.76
+Wandsworth,Entire home/apt,71.93,25,261,22,6.23
+Lambeth,Entire home/apt,215.57,12,52,98,3.05
+Westminster,Entire home/apt,270.82,22,101,262,2.68
+Kensington and Chelsea,Entire home/apt,176.25,29,77,296,4.77
+Hammersmith,Entire home/apt,169.95,18,8,212,0.43
+Southwark,Private room,35.7,12,244,254,3.12
+Lambeth,Private room,185.75,14,77,335,0.06
+Hammersmith,Shared room,53.48,18,140,285,2.37
+Wandsworth,Entire home/apt,60.54,6,75,83,0.68
+Lambeth,Private room,63.66,4,97,15,1.34
+Hammersmith,Entire home/apt,240.98,2,67,192,2.34
+Kensington and Chelsea,Entire home/apt,407.7,22,281,295,0.21
+Tower Hamlets,Private room,36.34,24,230,290,4.05
+Westminster,Entire home/apt,84.07,4,293,123,0.27
+Westminster,Private room,78.66,15,107,298,1.36
+Camden,Entire home/apt,238.42,17,290,9,0.59
+Wandsworth,Entire home/apt,207.0,15,125,340,7.43
+Islington,Private room,179.09,8,225,73,0.81
+Wandsworth,Private room,86.1,24,223,224,6.96
+Wandsworth,Entire home/apt,119.11,22,42,39,0.33
+Islington,Private room,58.22,13,192,243,0.7
+Tower Hamlets,Private room,54.16,15,90,358,1.19
+Tower Hamlets,Private room,73.01,21,253,37,0.85
+Islington,Entire home/apt,151.59,13,152,266,9.21
+Lambeth,Entire home/apt,163.42,24,25,291,0.84
+Hammersmith,Private room,122.17,27,119,24,0.0
+Islington,Entire home/apt,105.14,7,265,221,0.68
+Lambeth,Entire home/apt,145.79,13,141,356,7.3
+Islington,Entire home/apt,141.02,3,110,231,0.89
+Islington,Entire home/apt,470.38,14,183,184,0.28
+Hackney,Entire home/apt,92.47,26,80,155,1.38
+Tower Hamlets,Private room,47.34,23,170,68,0.1
+Kensington and Chelsea,Entire home/apt,375.14,10,203,41,1.53
+Camden,Entire home/apt,210.78,15,255,97,1.78
+Kensington and Chelsea,Private room,73.97,17,242,309,2.69
+Islington,Entire home/apt,253.54,14,54,207,0.14
+Islington,Private room,112.73,17,62,72,3.03
+Westminster,Entire home/apt,343.41,28,172,281,5.67
+Lambeth,Shared room,68.67,4,202,84,1.06
+Camden,Private room,163.36,21,37,340,1.71
+Kensington and Chelsea,Shared room,53.07,20,284,111,3.18
+Southwark,Entire home/apt,175.12,5,165,139,1.9
+Tower Hamlets,Entire home/apt,96.2,9,258,254,6.12
+Islington,Entire home/apt,132.81,14,86,218,2.1
+Tower Hamlets,Entire home/apt,78.16,27,289,288,0.74
+Camden,Entire home/apt,267.54,15,204,277,1.78
+Camden,Entire home/apt,227.24,27,293,97,0.87
+Southwark,Entire home/apt,450.45,12,47,197,3.47
+Westminster,Entire home/apt,164.19,8,51,44,1.3
+Westminster,Entire home/apt,283.32,6,67,178,1.8
+Hammersmith,Entire home/apt,161.87,6,12,213,1.59
+Tower Hamlets,Private room,68.89,10,192,332,0.79
+Camden,Entire home/apt,129.91,14,46,269,4.06
+Hackney,Entire home/apt,87.02,20,184,215,0.48
+Tower Hamlets,Entire home/apt,66.31,25,195,77,0.69
+Kensington and Chelsea,Private room,107.58,17,213,63,1.34
+Kensington and Chelsea,Private room,97.5,15,100,15,0.92
+Tower Hamlets,Shared room,58.37,9,46,42,1.7
+Westminster,Entire home/apt,193.16,16,27,341,0.15
+Wandsworth,Entire home/apt,179.14,27,166,122,0.77
+Wandsworth,Private room,67.02,5,110,179,0.4
+Hammersmith,Entire home/apt,275.24,26,9,16,4.27
+Camden,Private room,99.98,27,70,175,0.6
+Lambeth,Private room,50.22,20,198,42,2.76
+Hackney,Private room,54.71,12,295,134,1.82
+Wandsworth,Shared room,47.74,17,97,61,0.51
+Camden,Entire home/apt,114.71,28,257,193,0.51
+Islington,Private room,61.09,4,35,177,0.1
+Westminster,Shared room,63.74,16,61,68,3.58
+Camden,Private room,90.31,7,229,177,4.56
+Kensington and Chelsea,Entire home/apt,174.45,14,280,227,1.73
+Camden,Private room,82.8,10,9,122,3.81
+Kensington and Chelsea,Entire home/apt,112.02,1,70,136,0.05
+Camden,Private room,42.94,19,268,138,0.31
+Westminster,Entire home/apt,438.37,27,263,311,1.2
+Hackney,Entire home/apt,128.94,21,248,255,1.11
+Hammersmith,Private room,98.92,29,285,281,0.4
+Hackney,Entire home/apt,148.21,21,103,191,0.51
+Hackney,Entire home/apt,159.48,17,192,36,0.87
+Hammersmith,Entire home/apt,188.58,5,292,286,0.45
+Lambeth,Private room,66.24,29,271,19,3.16
+Hammersmith,Entire home/apt,171.46,9,202,297,2.0
+Wandsworth,Entire home/apt,56.5,21,156,318,1.14
+Southwark,Private room,48.54,26,181,102,0.04
+Southwark,Entire home/apt,220.3,26,69,159,0.14
+Hammersmith,Private room,68.96,19,107,335,3.0
+Camden,Private room,87.36,11,280,290,0.59
+Southwark,Private room,107.36,13,116,191,1.12
+Camden,Entire home/apt,198.07,19,19,121,3.39
+Hammersmith,Entire home/apt,196.45,14,126,2,6.52
+Camden,Entire home/apt,325.29,14,264,238,1.67
+Lambeth,Private room,103.37,1,121,240,0.69
+Lambeth,Private room,62.78,7,134,305,2.25
+Camden,Entire home/apt,74.52,5,112,351,1.43
+Hackney,Private room,59.16,2,16,203,0.23
+Westminster,Entire home/apt,178.84,18,77,55,0.92
+Hammersmith,Private room,104.41,17,134,331,2.73
+Southwark,Entire home/apt,416.56,6,131,17,0.17
+Tower Hamlets,Entire home/apt,50.6,20,171,50,0.11
+Tower Hamlets,Entire home/apt,93.48,13,157,97,3.6
+Lambeth,Entire home/apt,223.06,12,32,360,0.14
+Camden,Entire home/apt,194.59,9,297,179,2.14
+Lambeth,Entire home/apt,53.86,9,107,342,1.07
+Southwark,Entire home/apt,143.67,28,280,114,0.16
+Camden,Entire home/apt,95.28,28,49,141,1.25
+Camden,Private room,59.1,3,22,105,3.27
+Hackney,Private room,92.37,29,54,194,0.47
+Islington,Entire home/apt,293.24,4,44,297,0.56
+Wandsworth,Entire home/apt,172.85,18,176,129,2.28
+Camden,Entire home/apt,95.1,25,211,91,0.07
+Hackney,Private room,50.8,27,196,41,1.63
+Tower Hamlets,Private room,118.93,2,126,74,4.44
+Hammersmith,Private room,65.9,6,182,27,0.43
+Islington,Entire home/apt,97.17,4,95,121,1.19
+Tower Hamlets,Entire home/apt,127.27,14,136,276,4.22
+Hammersmith,Entire home/apt,334.57,27,7,264,0.38
+Wandsworth,Private room,112.85,8,270,164,0.59
+Lambeth,Private room,67.3,19,126,190,0.11
+Hammersmith,Private room,118.1,3,61,145,0.88
+Tower Hamlets,Entire home/apt,129.31,7,265,148,5.16
+Tower Hamlets,Entire home/apt,237.78,10,12,46,4.52
+Islington,Entire home/apt,169.27,21,52,129,3.7
+Wandsworth,Entire home/apt,237.34,7,146,171,0.64
+Islington,Entire home/apt,115.12,13,219,341,1.99
+Tower Hamlets,Entire home/apt,136.31,6,186,169,2.38
+Kensington and Chelsea,Shared room,34.18,5,159,263,2.92
+Westminster,Private room,88.15,16,163,4,0.93
+Westminster,Private room,108.17,27,112,287,0.88
+Hackney,Shared room,20.47,2,269,14,1.51
+Tower Hamlets,Entire home/apt,97.96,12,206,173,1.41
+Islington,Entire home/apt,245.0,21,258,18,1.2
+Kensington and Chelsea,Private room,156.92,14,142,270,0.76
+Tower Hamlets,Private room,95.17,5,189,178,9.08
+Tower Hamlets,Entire home/apt,166.9,3,206,156,3.11
+Hackney,Entire home/apt,149.94,18,288,139,1.69
+Kensington and Chelsea,Private room,212.07,5,148,203,0.93
+Hackney,Entire home/apt,170.91,21,72,75,1.19
+Lambeth,Entire home/apt,176.11,10,189,5,1.66
+Tower Hamlets,Entire home/apt,199.36,26,89,311,0.91
+Islington,Private room,66.89,12,21,286,3.85
+Southwark,Entire home/apt,451.49,11,171,46,1.07
+Southwark,Shared room,47.28,17,163,175,1.73
+Hackney,Private room,46.47,8,101,85,1.74
+Westminster,Entire home/apt,148.86,15,64,343,0.47
+Hammersmith,Private room,83.75,10,243,350,0.66
+Wandsworth,Entire home/apt,192.27,21,245,345,2.23
+Kensington and Chelsea,Entire home/apt,281.24,16,157,57,0.67
+Wandsworth,Private room,56.56,4,197,46,3.61
+Southwark,Entire home/apt,273.41,15,273,339,1.94
+Southwark,Private room,85.62,6,90,348,0.05
+Lambeth,Entire home/apt,162.6,20,161,191,3.62
+Westminster,Entire home/apt,155.58,3,272,188,1.03
+Hammersmith,Entire home/apt,476.33,28,199,54,1.1
+Kensington and Chelsea,Shared room,53.4,10,90,176,2.14
+Hackney,Entire home/apt,68.04,5,266,213,1.24
+Hackney,Entire home/apt,581.14,19,204,252,0.76
+Southwark,Entire home/apt,169.02,14,165,304,7.08
+Wandsworth,Private room,60.41,21,0,216,0.95
+Wandsworth,Entire home/apt,211.59,19,7,274,1.9
+Islington,Entire home/apt,88.51,13,77,100,5.4
+Islington,Entire home/apt,213.29,26,143,171,2.18
+Islington,Entire home/apt,100.98,15,6,241,0.61
+Hackney,Private room,47.35,6,188,359,0.5
+Hammersmith,Shared room,37.28,22,149,52,0.77
+Kensington and Chelsea,Entire home/apt,92.78,18,150,204,0.02
+Wandsworth,Private room,49.44,2,131,333,0.44
+Camden,Private room,41.4,19,191,141,0.1
+Hammersmith,Shared room,46.28,23,7,222,0.71
+Kensington and Chelsea,Shared room,66.51,8,145,34,1.84
+Southwark,Private room,90.32,29,191,356,0.04
+Camden,Entire home/apt,218.58,23,58,258,2.91
+Lambeth,Private room,48.03,18,135,314,1.78
+Hammersmith,Private room,104.12,12,15,11,3.23
+Hackney,Shared room,41.5,1,259,191,1.04
+Kensington and Chelsea,Entire home/apt,219.47,23,78,102,2.78
+Hammersmith,Private room,155.83,22,98,37,1.09
+Westminster,Entire home/apt,186.22,26,135,49,1.72
+Hammersmith,Private room,117.11,17,141,45,4.29
+Tower Hamlets,Private room,62.98,2,257,272,0.96
+Lambeth,Private room,60.97,4,253,158,7.91
+Camden,Entire home/apt,72.87,12,94,252,1.18
+Islington,Entire home/apt,252.52,20,108,39,0.32
+Kensington and Chelsea,Entire home/apt,420.81,9,197,142,1.78
+Southwark,Entire home/apt,265.0,6,23,77,0.21
+Westminster,Entire home/apt,164.4,27,262,328,0.94
+Hammersmith,Entire home/apt,294.0,1,58,307,2.37
+Islington,Private room,56.43,29,250,323,0.92
+Tower Hamlets,Private room,92.92,2,36,63,0.7
+Hackney,Entire home/apt,180.47,7,66,208,1.32
+Kensington and Chelsea,Private room,200.72,15,284,329,1.95
+Islington,Entire home/apt,135.69,20,231,67,0.91
+Camden,Private room,87.06,25,31,136,0.66
+Westminster,Private room,65.84,13,9,79,3.78
+Hammersmith,Private room,96.42,28,204,297,0.4
+Westminster,Private room,89.87,6,12,270,1.08
+Southwark,Private room,64.44,20,221,172,5.74
+Hammersmith,Shared room,32.9,23,184,177,3.21
+Hammersmith,Entire home/apt,187.51,18,77,277,14.63
+Westminster,Shared room,66.52,20,142,35,4.24
+Lambeth,Private room,39.14,11,182,1,5.35
+Islington,Entire home/apt,93.13,20,109,322,0.94
+Tower Hamlets,Private room,62.57,23,15,30,0.14
+Westminster,Entire home/apt,318.99,8,183,14,6.64
+Westminster,Shared room,52.13,22,259,107,1.41
+Tower Hamlets,Private room,45.11,23,25,280,0.26
+Hammersmith,Entire home/apt,74.03,25,207,132,5.8
+Lambeth,Private room,56.25,7,119,182,2.58
+Tower Hamlets,Private room,108.08,18,126,116,1.35
+Southwark,Entire home/apt,448.89,19,220,313,0.18
+Lambeth,Private room,44.43,21,173,57,1.47
+Westminster,Entire home/apt,228.4,7,251,130,4.69
+Hammersmith,Private room,93.46,14,155,29,0.05
+Islington,Private room,97.09,3,241,51,0.82
+Tower Hamlets,Entire home/apt,195.19,22,270,68,4.12
+Tower Hamlets,Entire home/apt,150.17,10,240,29,0.48
+Islington,Private room,66.34,27,161,282,0.95
+Wandsworth,Entire home/apt,101.87,22,286,258,0.18
+Hackney,Private room,52.2,25,85,215,5.28
+Lambeth,Entire home/apt,104.13,18,86,39,3.42
+Wandsworth,Entire home/apt,51.79,16,15,17,0.66
+Islington,Entire home/apt,156.11,6,0,189,0.96
+Wandsworth,Private room,25.07,8,117,295,1.14
+Kensington and Chelsea,Entire home/apt,195.66,7,73,251,0.67
+Wandsworth,Entire home/apt,104.12,2,92,49,0.11
+Westminster,Shared room,59.06,21,232,315,3.91
+Southwark,Private room,71.7,4,51,208,2.33
+Westminster,Private room,96.72,27,256,184,4.72
+Camden,Entire home/apt,71.1,29,8,349,0.63
+Wandsworth,Entire home/apt,258.99,12,24,102,1.18
+Hammersmith,Entire home/apt,393.08,26,19,136,0.09
+Hackney,Private room,81.56,11,282,349,1.6
+Hackney,Entire home/apt,134.14,15,97,131,11.45
+Islington,Entire home/apt,117.57,2,226,144,1.54
+Camden,Entire home/apt,145.15,23,116,92,2.92
+Hammersmith,Private room,50.09,28,83,179,1.69
+Southwark,Entire home/apt,123.76,6,10,161,1.37
+Southwark,Private room,85.47,18,20,274,2.47
+Camden,Private room,150.32,17,256,167,0.36
+Lambeth,Private room,58.98,7,195,363,3.9
+Tower Hamlets,Private room,87.02,16,145,309,3.65
+Lambeth,Shared room,37.0,4,278,245,3.39
+Hackney,Private room,154.2,18,154,336,1.44
+Hammersmith,Entire home/apt,137.05,16,238,137,0.43
+Tower Hamlets,Entire home/apt,182.23,13,240,275,2.44
+Wandsworth,Entire home/apt,230.45,12,288,175,1.12
+Wandsworth,Private room,64.49,12,10,105,2.24
+Tower Hamlets,Private room,38.85,28,173,215,4.52
+Lambeth,Entire home/apt,115.32,8,182,321,0.5
+Wandsworth,Entire home/apt,123.17,20,99,316,5.11
+Lambeth,Private room,57.2,8,237,21,0.09
+Hammersmith,Private room,94.05,10,166,349,0.21
+Islington,Private room,63.83,8,263,73,1.8
+Lambeth,Entire home/apt,204.08,25,175,62,0.13
+Tower Hamlets,Entire home/apt,134.89,15,287,300,2.83
+Camden,Entire home/apt,241.33,8,269,69,0.64
+Wandsworth,Private room,69.05,26,147,143,1.02
+Southwark,Entire home/apt,150.67,12,280,278,5.52
+Westminster,Private room,78.6,20,185,168,0.49
+Tower Hamlets,Entire home/apt,119.46,27,8,160,0.56
+Tower Hamlets,Entire home/apt,263.91,24,191,152,1.38
+Westminster,Entire home/apt,533.0,13,130,3,1.65
+Islington,Entire home/apt,115.69,7,274,75,2.62
+Southwark,Entire home/apt,392.78,14,203,148,2.56
+Southwark,Private room,95.08,29,86,180,0.21
+Tower Hamlets,Entire home/apt,116.41,13,48,333,0.04
+Kensington and Chelsea,Private room,217.27,24,6,268,0.98
+Southwark,Private room,77.48,10,158,201,1.32
+Lambeth,Entire home/apt,107.12,20,102,360,0.81
+Kensington and Chelsea,Private room,80.93,18,92,143,0.25
+Southwark,Private room,88.5,20,286,65,0.09
+Southwark,Private room,105.13,23,32,67,4.57
+Southwark,Entire home/apt,252.49,17,113,94,0.98
+Tower Hamlets,Private room,47.59,17,197,324,2.38
+Southwark,Entire home/apt,100.88,21,60,258,0.39
+Islington,Entire home/apt,179.21,7,132,124,3.64
+Camden,Entire home/apt,149.08,22,155,117,4.46
+Hackney,Entire home/apt,225.6,15,194,167,5.26
+Hammersmith,Private room,98.72,11,0,61,4.34
+Camden,Private room,79.76,1,234,255,0.61
+Hammersmith,Private room,137.87,16,126,348,0.7
+Lambeth,Entire home/apt,87.0,28,65,350,1.19
+Hackney,Entire home/apt,150.55,12,66,29,1.63
+Camden,Entire home/apt,167.41,21,38,351,3.14
+Hackney,Private room,45.04,15,295,273,1.48
+Hammersmith,Private room,113.73,14,281,165,1.71
+Lambeth,Private room,135.83,19,170,267,1.03
+Kensington and Chelsea,Private room,164.31,1,114,166,6.33
+Hackney,Private room,100.44,8,39,181,1.74
+Islington,Private room,127.47,18,23,257,3.3
+Hackney,Entire home/apt,70.08,13,264,261,2.96
+Hammersmith,Private room,72.68,18,196,24,0.83
+Westminster,Private room,68.97,28,256,141,3.19
+Hackney,Private room,139.52,2,291,61,0.71
+Southwark,Shared room,42.65,22,120,177,0.16
+Kensington and Chelsea,Private room,128.16,10,122,243,0.86
+Lambeth,Private room,54.27,18,98,317,1.73
+Hackney,Private room,48.28,24,189,21,0.64
+Hammersmith,Entire home/apt,237.92,9,132,361,6.48
+Camden,Private room,132.29,21,130,68,0.34
+Westminster,Private room,146.98,8,20,134,0.3
+Islington,Private room,120.2,8,283,206,1.47
+Camden,Private room,40.0,7,130,269,0.53
+Tower Hamlets,Private room,122.09,16,245,132,1.18
+Lambeth,Entire home/apt,223.74,24,47,104,2.18
+Hackney,Entire home/apt,133.33,23,54,128,0.22
+Tower Hamlets,Private room,177.15,5,48,66,2.5
+Islington,Private room,92.23,20,150,132,1.8
+Hammersmith,Entire home/apt,182.05,13,217,234,0.76
+Westminster,Entire home/apt,419.0,5,155,244,0.14
+Islington,Private room,103.8,7,2,306,8.17
+Wandsworth,Entire home/apt,240.16,14,49,121,2.29
+Westminster,Entire home/apt,141.38,6,189,183,3.07
+Kensington and Chelsea,Entire home/apt,192.06,8,208,344,0.63
+Wandsworth,Entire home/apt,118.69,11,293,16,2.87
+Tower Hamlets,Entire home/apt,133.77,4,15,13,2.24
+Wandsworth,Entire home/apt,139.18,8,194,64,0.48
+Southwark,Entire home/apt,146.93,1,277,181,1.65
+Islington,Entire home/apt,142.51,20,92,64,0.08
+Camden,Private room,43.69,17,277,85,0.37
+Wandsworth,Shared room,27.55,24,13,160,3.38
+Wandsworth,Private room,110.43,23,50,142,2.61
+Tower Hamlets,Entire home/apt,241.89,10,261,184,0.83
+Hackney,Private room,51.34,10,121,116,4.4
+Hammersmith,Entire home/apt,186.51,18,146,331,0.97
+Kensington and Chelsea,Entire home/apt,403.58,15,83,191,6.37
+Tower Hamlets,Private room,50.65,5,66,22,0.42
+Southwark,Private room,30.36,18,24,263,6.97
+Camden,Entire home/apt,134.46,19,127,342,4.86
+Southwark,Entire home/apt,180.61,1,51,174,4.28
+Westminster,Entire home/apt,476.75,13,120,23,0.78
+Hackney,Shared room,38.45,27,113,159,0.26
+Southwark,Entire home/apt,216.71,1,146,181,1.58
+Camden,Entire home/apt,104.54,20,1,287,3.12
+Kensington and Chelsea,Private room,58.95,20,126,264,1.88
+Camden,Private room,68.18,9,232,318,3.68
+Southwark,Private room,76.39,16,189,197,1.5
+Islington,Private room,98.23,25,261,215,1.2
+Westminster,Private room,119.21,1,217,50,5.65
+Wandsworth,Private room,91.59,9,198,191,0.89
+Kensington and Chelsea,Entire home/apt,113.49,29,208,34,2.03
+Camden,Entire home/apt,199.79,15,251,242,1.72
+Hackney,Shared room,35.45,12,81,306,0.0
+Camden,Private room,93.5,17,145,124,1.58
+Southwark,Entire home/apt,440.08,1,9,164,1.63
+Islington,Entire home/apt,142.76,11,279,87,0.42
+Southwark,Private room,39.03,16,231,231,0.4
+Lambeth,Entire home/apt,176.22,12,278,268,0.53
+Wandsworth,Entire home/apt,159.78,23,177,19,4.19
+Lambeth,Entire home/apt,144.47,29,177,95,1.64
+Tower Hamlets,Entire home/apt,42.6,3,92,90,2.87
+Kensington and Chelsea,Private room,72.94,3,117,197,1.81
+Westminster,Entire home/apt,678.06,25,186,60,0.69
+Camden,Private room,123.61,22,131,296,1.13
+Lambeth,Entire home/apt,118.17,4,275,322,0.48
+Islington,Entire home/apt,221.6,26,252,196,0.78
+Kensington and Chelsea,Entire home/apt,160.23,23,275,305,0.71
+Wandsworth,Entire home/apt,124.49,28,110,203,0.41
+Camden,Entire home/apt,147.46,5,248,180,0.89
+Islington,Entire home/apt,259.77,18,84,182,2.01
+Westminster,Entire home/apt,284.76,5,99,171,0.03
+Southwark,Private room,109.68,23,195,40,0.81
+Tower Hamlets,Private room,109.44,15,211,83,4.4
+Southwark,Private room,106.31,28,287,261,0.59
+Southwark,Private room,65.46,20,246,327,1.08
+Southwark,Entire home/apt,63.02,29,25,53,2.02
+Southwark,Private room,80.43,2,37,86,2.27
+Hackney,Private room,103.12,14,285,185,0.67
+Westminster,Private room,100.78,19,287,94,0.35
+Kensington and Chelsea,Entire home/apt,251.89,21,178,239,4.93
+Tower Hamlets,Private room,71.77,14,119,268,2.52
+Kensington and Chelsea,Entire home/apt,179.79,29,153,81,0.06
+Lambeth,Entire home/apt,396.73,24,114,2,1.27
+Tower Hamlets,Entire home/apt,368.79,9,144,96,5.49
+Lambeth,Private room,45.43,10,245,20,0.34
+Wandsworth,Private room,46.17,22,264,147,2.57
+Tower Hamlets,Entire home/apt,104.4,1,68,292,2.68
+Kensington and Chelsea,Entire home/apt,130.14,13,83,227,0.2
+Southwark,Entire home/apt,250.29,7,168,328,1.04
+Camden,Entire home/apt,244.01,29,13,112,0.55
+Southwark,Entire home/apt,226.35,8,159,312,0.1
+Southwark,Entire home/apt,100.2,18,162,178,5.16
+Hammersmith,Entire home/apt,411.85,7,124,223,1.53
+Lambeth,Entire home/apt,101.51,29,42,28,0.78
+Westminster,Entire home/apt,415.69,25,253,129,2.8
+Lambeth,Entire home/apt,409.62,8,244,249,0.5
+Hackney,Private room,41.36,15,67,277,2.04
+Lambeth,Private room,53.83,15,299,114,0.52
+Hammersmith,Entire home/apt,253.56,9,211,71,5.49
+Hackney,Private room,97.83,16,74,105,2.81
+Hammersmith,Entire home/apt,263.79,3,231,218,1.22
+Lambeth,Entire home/apt,216.05,7,201,206,1.6
+Hammersmith,Private room,60.36,12,24,40,0.38
+Wandsworth,Private room,69.2,3,116,194,0.26
+Westminster,Private room,68.77,3,104,274,5.34
+Hackney,Entire home/apt,109.97,24,84,196,2.76
+Kensington and Chelsea,Entire home/apt,527.3,17,144,41,1.45
+Kensington and Chelsea,Private room,128.05,6,94,216,0.29
+Tower Hamlets,Private room,93.76,21,141,121,2.2
+Camden,Entire home/apt,252.1,29,164,220,1.57
+Tower Hamlets,Entire home/apt,199.18,17,126,225,3.46
+Westminster,Private room,110.69,29,21,165,0.84
+Camden,Entire home/apt,257.86,23,212,217,0.26
+Southwark,Entire home/apt,339.65,4,20,256,3.21
+Hackney,Private room,142.76,2,261,364,0.38
+Southwark,Private room,56.79,7,128,170,0.96
+Tower Hamlets,Entire home/apt,105.53,13,100,185,3.4
+Islington,Private room,80.2,29,101,122,1.31
+Lambeth,Private room,46.47,4,188,292,10.97
+Islington,Private room,84.93,15,51,48,0.45
+Hammersmith,Entire home/apt,106.7,20,299,40,13.83
+Hammersmith,Entire home/apt,204.71,20,69,195,0.23
+Islington,Shared room,45.14,12,66,155,5.02
+Camden,Shared room,36.23,29,59,73,0.55
+Hackney,Entire home/apt,143.34,17,244,308,1.3
+Westminster,Private room,64.78,7,91,112,1.5
+Lambeth,Entire home/apt,185.57,27,145,60,6.43
+Southwark,Private room,119.68,27,39,343,3.02
+Southwark,Private room,123.12,27,26,72,1.63
+Westminster,Entire home/apt,244.08,12,298,286,1.61
+Tower Hamlets,Private room,37.6,4,97,216,3.17
+Wandsworth,Entire home/apt,168.78,26,126,201,0.17
+Camden,Shared room,53.96,10,229,111,0.94
+Camden,Entire home/apt,319.19,1,2,206,0.81
+Southwark,Private room,131.88,25,89,319,2.21
+Tower Hamlets,Private room,140.74,12,136,137,1.03
+Wandsworth,Private room,25.52,19,106,37,5.69
+Lambeth,Private room,64.76,21,61,22,1.9
+Hackney,Entire home/apt,129.58,17,88,173,3.4
+Camden,Entire home/apt,121.58,28,55,58,1.94
+Hammersmith,Entire home/apt,218.35,12,101,43,0.62
+Wandsworth,Private room,85.23,2,123,76,0.42
+Tower Hamlets,Entire home/apt,123.51,17,250,134,2.45
+Kensington and Chelsea,Private room,82.79,23,101,360,1.2
+Southwark,Entire home/apt,129.12,14,1,118,1.78
+Hackney,Shared room,44.85,7,110,176,1.4
+Lambeth,Private room,73.99,6,64,276,0.07
+Hackney,Entire home/apt,98.42,2,210,19,0.13
+Kensington and Chelsea,Private room,101.42,2,78,179,0.05
+Hammersmith,Entire home/apt,137.54,22,13,98,5.07
+Westminster,Shared room,71.21,13,136,358,1.91
+Hackney,Shared room,43.33,10,249,277,7.88
+Wandsworth,Entire home/apt,172.19,21,66,3,1.07
+Southwark,Entire home/apt,86.32,14,274,230,1.55
+Tower Hamlets,Shared room,49.76,11,109,275,1.59
+Lambeth,Entire home/apt,162.2,18,63,342,0.59
+Hammersmith,Entire home/apt,73.32,9,111,307,2.59
+Westminster,Entire home/apt,204.68,11,264,319,0.91
+Kensington and Chelsea,Entire home/apt,143.87,18,169,127,1.46
+Hammersmith,Private room,102.73,8,66,25,0.93
+Islington,Entire home/apt,70.87,26,190,291,2.46
+Wandsworth,Entire home/apt,348.3,18,270,334,0.18
+Kensington and Chelsea,Private room,167.38,24,227,286,7.74
+Camden,Private room,72.61,8,134,203,0.42
+Hammersmith,Entire home/apt,114.36,27,130,49,6.94
+Lambeth,Private room,87.22,23,219,333,0.88
+Hackney,Private room,65.8,3,67,193,3.48
+Southwark,Private room,62.65,29,169,128,0.98
+Hackney,Private room,66.47,14,279,64,1.74
+Tower Hamlets,Entire home/apt,122.1,4,137,167,2.31
+Islington,Private room,53.03,7,145,206,1.66
+Islington,Private room,81.32,21,253,63,0.4
+Camden,Entire home/apt,122.51,15,249,86,2.23
+Kensington and Chelsea,Entire home/apt,220.0,4,171,356,1.14
+Lambeth,Entire home/apt,153.15,24,6,50,0.21
+Southwark,Private room,46.86,15,185,286,0.12
+Hammersmith,Private room,31.29,19,151,56,0.5
+Kensington and Chelsea,Entire home/apt,452.07,3,274,182,0.71
+Lambeth,Entire home/apt,244.23,13,4,220,0.14
+Westminster,Shared room,60.27,6,141,234,0.73
+Lambeth,Entire home/apt,337.18,25,271,243,6.78
+Westminster,Entire home/apt,621.1,5,208,112,0.21
+Westminster,Entire home/apt,259.03,22,157,362,0.32
+Tower Hamlets,Private room,35.77,25,40,303,5.22
+Lambeth,Entire home/apt,106.45,6,270,271,1.11
+Kensington and Chelsea,Entire home/apt,183.42,18,200,155,0.98
+Westminster,Entire home/apt,171.01,23,83,133,1.85
+Hammersmith,Private room,96.57,9,169,289,5.39
+Westminster,Entire home/apt,472.73,17,188,301,0.32
+Westminster,Entire home/apt,160.63,5,122,230,0.82
+Westminster,Entire home/apt,84.7,23,234,81,0.48
+Islington,Entire home/apt,179.5,24,264,263,1.07
+Hackney,Private room,89.55,3,98,338,0.41
+Hammersmith,Shared room,76.15,28,215,31,0.38
+Kensington and Chelsea,Entire home/apt,145.36,29,120,345,1.19
+Tower Hamlets,Private room,74.75,14,135,303,0.04
+Hackney,Private room,90.99,3,217,205,0.78
+Kensington and Chelsea,Shared room,59.2,23,119,79,0.75
+Hammersmith,Entire home/apt,207.1,29,111,174,0.61
+Tower Hamlets,Entire home/apt,70.8,2,220,170,0.04
+Southwark,Entire home/apt,83.78,4,64,317,0.21
+Hackney,Entire home/apt,142.89,23,44,145,1.67
+Wandsworth,Entire home/apt,196.04,26,227,297,0.1
+Hackney,Entire home/apt,173.3,3,78,300,0.75
+Kensington and Chelsea,Entire home/apt,219.36,2,229,167,0.74
+Kensington and Chelsea,Shared room,70.46,8,194,268,1.55
+Westminster,Entire home/apt,367.12,13,58,308,2.07
+Wandsworth,Private room,67.91,5,134,273,4.12
+Camden,Entire home/apt,83.83,2,211,67,4.52
+Kensington and Chelsea,Entire home/apt,130.8,6,175,220,1.54
+Camden,Entire home/apt,122.11,15,278,193,3.35
+Southwark,Entire home/apt,495.57,2,17,63,2.64
+Lambeth,Entire home/apt,225.94,28,244,289,0.91
+Islington,Entire home/apt,145.63,1,139,75,0.39
+Hammersmith,Private room,148.01,12,14,27,0.91
+Islington,Entire home/apt,116.56,12,97,302,2.92
+Lambeth,Entire home/apt,96.43,27,168,174,0.67
+Southwark,Private room,71.45,4,58,218,0.97
+Hammersmith,Entire home/apt,130.23,25,137,231,5.47
+Kensington and Chelsea,Entire home/apt,377.44,22,109,352,0.98
+Kensington and Chelsea,Private room,101.91,3,209,297,0.46
+Wandsworth,Private room,106.22,8,247,358,0.98
+Hammersmith,Private room,83.35,13,206,17,3.58
+Islington,Entire home/apt,74.28,8,147,352,0.66
+Hackney,Entire home/apt,164.03,21,110,16,0.47
+Tower Hamlets,Entire home/apt,134.16,28,173,330,1.81
+Wandsworth,Entire home/apt,119.87,25,155,163,1.7
+Camden,Private room,80.17,8,94,303,8.1
+Lambeth,Entire home/apt,385.27,22,191,328,3.88
+Southwark,Private room,84.27,9,244,6,2.49
+Wandsworth,Entire home/apt,203.7,15,127,194,0.51
+Islington,Entire home/apt,225.91,27,159,193,1.62
+Camden,Private room,63.52,12,209,35,5.83
+Tower Hamlets,Private room,102.18,25,222,97,5.57
+Wandsworth,Entire home/apt,111.55,19,101,175,3.9
+Wandsworth,Private room,36.2,19,227,63,1.59
+Wandsworth,Entire home/apt,68.58,7,80,106,3.22
+Lambeth,Entire home/apt,94.36,26,120,133,4.14
+Camden,Private room,110.54,20,47,86,5.65
+Hackney,Entire home/apt,183.25,5,144,91,3.34
+Lambeth,Private room,39.48,13,155,155,1.45
+Tower Hamlets,Private room,56.51,14,116,153,1.32
+Islington,Entire home/apt,152.35,20,165,74,1.01
+Hackney,Private room,38.14,19,74,143,1.54
+Kensington and Chelsea,Entire home/apt,249.28,24,109,337,7.14
+Camden,Entire home/apt,186.97,2,296,168,0.35
+Islington,Private room,87.74,3,131,92,0.11
+Hackney,Private room,53.44,1,248,101,1.35
+Westminster,Entire home/apt,488.15,2,290,168,4.34
+Kensington and Chelsea,Private room,74.1,27,267,252,2.75
+Tower Hamlets,Shared room,24.14,7,232,122,3.84
+Tower Hamlets,Private room,50.27,7,134,317,1.38
+Kensington and Chelsea,Entire home/apt,219.91,9,258,181,0.31
+Kensington and Chelsea,Entire home/apt,409.11,29,15,201,0.61
+Southwark,Private room,70.53,15,234,211,2.07
+Camden,Entire home/apt,112.33,19,48,77,6.9
+Southwark,Entire home/apt,459.59,4,28,156,0.96
+Islington,Entire home/apt,340.47,11,6,304,0.4
+Tower Hamlets,Private room,101.25,2,7,52,0.36
+Islington,Private room,74.92,14,171,85,1.64
+Hammersmith,Private room,182.34,2,146,294,1.44
+Southwark,Entire home/apt,150.18,26,87,111,0.69
+Hammersmith,Private room,36.93,15,237,333,2.0
+Lambeth,Private room,47.4,5,286,292,0.28
+Tower Hamlets,Entire home/apt,133.28,6,150,295,0.23
+Islington,Shared room,58.53,15,103,157,1.07
+Tower Hamlets,Entire home/apt,87.06,8,250,145,4.59
+Hammersmith,Entire home/apt,130.8,21,47,300,0.5
+Tower Hamlets,Entire home/apt,73.23,14,125,301,0.48
+Kensington and Chelsea,Private room,93.6,14,178,189,3.11
+Hammersmith,Entire home/apt,155.89,5,268,198,0.2
+Hammersmith,Entire home/apt,170.07,12,191,215,0.28
+Camden,Private room,126.97,11,241,41,1.71
+Westminster,Entire home/apt,334.25,26,166,270,0.03
+Islington,Shared room,38.3,10,5,30,0.18
+Kensington and Chelsea,Entire home/apt,149.74,12,134,12,1.51
+Camden,Private room,90.25,18,204,16,0.23
+Tower Hamlets,Private room,72.27,2,290,233,0.59
+Camden,Entire home/apt,117.91,23,88,340,2.36
+Hammersmith,Private room,63.32,25,56,321,0.27
+Camden,Entire home/apt,311.4,16,254,267,3.2
+Hammersmith,Private room,95.38,29,52,42,1.5
+Kensington and Chelsea,Private room,41.96,9,286,185,0.6
+Hammersmith,Entire home/apt,107.07,18,8,28,5.73
+Southwark,Private room,71.95,14,226,117,4.44
+Tower Hamlets,Entire home/apt,65.58,1,214,168,9.9
+Westminster,Entire home/apt,155.21,3,226,78,0.65
+Islington,Entire home/apt,246.15,5,57,111,1.51
+Wandsworth,Private room,53.12,25,212,310,0.67
+Westminster,Entire home/apt,308.86,8,33,317,1.43
+Hackney,Entire home/apt,92.16,24,122,246,0.8
+Southwark,Entire home/apt,94.76,27,127,186,0.78
+Kensington and Chelsea,Entire home/apt,375.16,11,108,308,0.45
+Hammersmith,Entire home/apt,220.92,8,213,242,1.26
+Islington,Private room,57.11,17,264,211,2.3
+Hammersmith,Entire home/apt,236.9,27,24,353,2.86
+Hackney,Private room,60.76,27,49,196,2.55
+Hammersmith,Entire home/apt,143.59,2,152,255,2.35
+Camden,Entire home/apt,289.29,3,68,125,0.95
+Southwark,Entire home/apt,180.83,16,149,138,0.84
+Camden,Private room,97.82,5,107,283,2.73
+Hammersmith,Private room,81.92,25,293,168,1.92
+Hackney,Entire home/apt,74.59,25,81,76,0.33
+Camden,Entire home/apt,272.38,13,285,196,2.72
+Islington,Entire home/apt,275.78,11,286,306,0.18
+Westminster,Private room,106.39,29,199,125,0.17
+Southwark,Entire home/apt,173.09,11,32,275,5.42
+Kensington and Chelsea,Private room,44.56,1,195,306,2.31
+Southwark,Entire home/apt,182.79,2,145,232,2.1
+Hammersmith,Private room,48.09,1,60,362,2.87
+Hammersmith,Entire home/apt,479.06,7,82,46,0.28
+Westminster,Entire home/apt,293.54,3,91,99,0.15
+Hackney,Entire home/apt,155.49,10,263,267,4.83
+Hammersmith,Entire home/apt,289.88,27,49,295,3.13
+Lambeth,Shared room,46.07,18,148,110,2.67
+Lambeth,Entire home/apt,199.15,15,136,278,5.77
+Islington,Shared room,73.69,6,68,132,0.86
+Hackney,Entire home/apt,118.19,26,60,361,2.14
+Westminster,Entire home/apt,202.91,5,169,317,0.56
+Westminster,Private room,277.93,28,105,289,0.29
+Wandsworth,Entire home/apt,280.53,9,253,3,0.16
+Tower Hamlets,Private room,71.66,5,135,247,2.23
+Westminster,Entire home/apt,235.07,21,125,344,1.04
+Camden,Private room,70.17,26,59,124,1.19
+Islington,Private room,117.53,22,167,180,0.4
+Camden,Private room,63.43,24,208,110,0.8
+Wandsworth,Entire home/apt,211.85,8,64,23,0.32
+Hackney,Entire home/apt,61.02,10,171,229,2.75
+Tower Hamlets,Entire home/apt,165.22,7,45,178,1.49
+Kensington and Chelsea,Private room,189.52,28,77,239,3.51
+Hammersmith,Private room,105.42,3,170,146,0.23
+Southwark,Entire home/apt,67.82,22,165,16,0.09
+Lambeth,Entire home/apt,75.34,1,298,111,1.21
+Tower Hamlets,Private room,62.94,8,217,88,0.24
+Southwark,Entire home/apt,175.39,14,77,327,2.85
+Lambeth,Entire home/apt,325.54,16,37,227,4.36
+Tower Hamlets,Private room,30.5,11,293,207,2.16
+Southwark,Shared room,82.1,24,286,210,4.13
+Kensington and Chelsea,Entire home/apt,170.72,9,270,353,3.94
+Hackney,Private room,108.51,20,183,276,2.49
+Westminster,Private room,122.1,25,292,175,0.28
+Kensington and Chelsea,Private room,103.76,4,54,37,3.39
+Hammersmith,Private room,117.91,24,262,184,10.84
+Tower Hamlets,Entire home/apt,62.27,6,285,137,1.65
+Islington,Private room,77.03,4,170,125,0.21
+Hackney,Private room,45.27,4,96,237,1.56
+Kensington and Chelsea,Entire home/apt,282.49,23,139,113,1.23
+Hackney,Private room,82.24,25,232,146,0.98
+Lambeth,Entire home/apt,113.83,29,183,60,8.6
+Westminster,Shared room,46.56,14,186,38,1.55
+Hackney,Private room,109.93,24,282,286,0.46
+Camden,Entire home/apt,302.93,9,265,186,1.43
+Islington,Private room,142.91,7,195,313,2.26
+Islington,Entire home/apt,141.36,12,249,226,3.87
+Wandsworth,Entire home/apt,146.58,12,251,321,3.57
+Wandsworth,Entire home/apt,161.21,23,239,138,1.56
+Westminster,Private room,103.24,22,267,326,2.4
+Tower Hamlets,Entire home/apt,56.02,27,63,298,3.2
+Wandsworth,Entire home/apt,167.83,2,87,250,0.14
+Westminster,Shared room,40.83,9,98,150,0.03
+Islington,Entire home/apt,189.07,3,49,313,0.09
+Hackney,Private room,38.03,22,17,271,1.14
+Kensington and Chelsea,Private room,155.02,12,136,72,2.12
+Kensington and Chelsea,Entire home/apt,285.82,20,18,99,2.5
+Hammersmith,Entire home/apt,339.8,19,221,125,0.26
+Kensington and Chelsea,Entire home/apt,615.56,23,84,363,0.24
+Wandsworth,Private room,84.9,6,115,101,1.36
+Tower Hamlets,Shared room,43.71,27,227,87,1.77
+Camden,Entire home/apt,141.16,15,17,70,3.15
+Hackney,Entire home/apt,88.52,1,267,203,4.18
+Hammersmith,Entire home/apt,228.3,4,233,309,0.38
+Hackney,Shared room,54.42,3,222,123,1.04
+Southwark,Private room,78.03,26,31,65,3.07
+Tower Hamlets,Entire home/apt,329.14,6,48,274,1.76
+Islington,Entire home/apt,288.17,7,10,200,2.07
+Wandsworth,Private room,34.39,8,31,47,0.18
+Islington,Private room,83.74,7,67,188,0.08
+Westminster,Private room,104.97,2,133,121,0.61
+Camden,Entire home/apt,202.66,12,40,28,0.51
+Southwark,Private room,59.29,9,89,228,6.96
+Hammersmith,Private room,71.99,10,173,89,0.96
+Hackney,Entire home/apt,109.58,24,76,231,10.97
+Lambeth,Entire home/apt,267.67,9,241,234,2.54
+Camden,Entire home/apt,86.66,4,268,169,0.86
+Southwark,Shared room,37.64,17,64,197,0.38
+Southwark,Entire home/apt,146.7,5,81,318,6.95
+Camden,Entire home/apt,214.84,29,46,356,1.76
+Lambeth,Private room,73.53,19,233,59,3.96
+Hammersmith,Private room,76.94,21,223,179,2.23
+Southwark,Entire home/apt,95.96,5,96,280,0.47
+Kensington and Chelsea,Entire home/apt,131.78,2,18,346,2.52
+Southwark,Private room,56.1,19,157,303,2.79
+Islington,Entire home/apt,280.04,1,6,135,5.39
+Wandsworth,Private room,43.36,6,40,113,0.95
+Tower Hamlets,Entire home/apt,28.05,5,115,149,2.6
+Lambeth,Entire home/apt,107.45,13,115,66,0.9
+Lambeth,Private room,53.78,17,190,96,2.03
+Westminster,Private room,205.02,13,36,285,0.79
+Southwark,Private room,67.56,6,289,207,1.49
+Tower Hamlets,Private room,32.52,6,135,279,1.67
+Westminster,Shared room,34.58,16,261,215,0.08
+Southwark,Private room,165.77,15,221,225,0.85
+Hackney,Private room,58.15,14,187,111,1.52
+Lambeth,Entire home/apt,294.16,22,126,318,1.48
+Camden,Entire home/apt,160.22,7,241,116,3.02
+Westminster,Entire home/apt,209.66,14,133,113,3.76
+Kensington and Chelsea,Private room,81.04,8,92,157,0.22
+Westminster,Entire home/apt,947.11,16,72,58,1.1
+Islington,Private room,163.03,8,105,97,3.64
+Tower Hamlets,Entire home/apt,157.11,15,139,327,4.57
+Hackney,Entire home/apt,237.62,29,257,189,3.58
+Kensington and Chelsea,Private room,98.69,9,287,293,3.02
+Islington,Private room,81.83,13,38,22,1.05
+Westminster,Entire home/apt,84.97,26,190,289,0.94
+Lambeth,Private room,88.89,26,12,79,1.07
+Southwark,Entire home/apt,138.2,15,200,149,0.85
+Kensington and Chelsea,Private room,41.91,12,217,136,3.11
+Tower Hamlets,Entire home/apt,526.45,6,233,335,5.01
+Hackney,Entire home/apt,265.98,4,252,238,0.37
+Hammersmith,Private room,84.61,20,294,214,1.49
+Hammersmith,Private room,106.12,14,198,170,0.1
+Tower Hamlets,Shared room,21.07,2,178,274,1.0
+Hackney,Private room,39.78,4,70,262,0.46
+Kensington and Chelsea,Shared room,76.31,10,141,72,1.71
+Southwark,Private room,41.56,11,299,194,6.79
+Kensington and Chelsea,Entire home/apt,177.48,2,111,336,4.5
+Camden,Private room,88.97,16,249,225,0.58
+Southwark,Entire home/apt,160.05,20,152,233,0.23
+Hackney,Shared room,44.34,7,134,109,3.22
+Islington,Entire home/apt,108.87,6,176,360,1.8
+Southwark,Private room,93.88,15,125,274,0.22
+Kensington and Chelsea,Private room,93.09,9,157,55,1.5
+Tower Hamlets,Private room,175.06,25,174,144,4.31
+Lambeth,Private room,75.15,22,82,140,1.61
+Camden,Entire home/apt,383.78,14,216,45,3.54
+Camden,Entire home/apt,40.93,27,76,164,4.23
+Kensington and Chelsea,Entire home/apt,328.33,13,137,336,0.18
+Southwark,Entire home/apt,152.24,9,187,62,1.03
+Islington,Private room,54.38,23,86,30,6.73
+Lambeth,Private room,51.2,27,145,332,0.08
+Islington,Private room,74.42,19,161,187,1.78
+Islington,Private room,39.47,8,271,49,0.03
+Tower Hamlets,Entire home/apt,102.42,20,153,311,1.33
+Lambeth,Private room,35.32,5,176,353,1.46
+Islington,Entire home/apt,388.85,11,194,186,1.66
+Hackney,Entire home/apt,110.0,17,51,262,1.73
+Camden,Private room,71.24,3,250,302,0.14
+Wandsworth,Private room,89.22,18,40,21,1.4
+Southwark,Entire home/apt,247.12,17,162,167,1.71
+Southwark,Private room,146.07,18,226,235,5.14
+Westminster,Entire home/apt,206.35,8,208,20,0.58
+Islington,Private room,51.8,19,284,19,1.07
+Hammersmith,Private room,97.62,9,142,281,4.41
+Islington,Entire home/apt,88.27,3,179,126,0.66
+Kensington and Chelsea,Entire home/apt,254.22,18,92,279,1.1
+Lambeth,Entire home/apt,98.92,11,167,191,3.31
+Westminster,Entire home/apt,266.77,7,113,284,0.79
+Tower Hamlets,Entire home/apt,64.51,21,211,316,1.42
+Kensington and Chelsea,Private room,83.61,23,77,323,0.62
+Hammersmith,Entire home/apt,200.55,28,74,156,1.4
+Camden,Private room,106.09,4,276,308,0.91
+Tower Hamlets,Entire home/apt,167.08,15,63,111,0.85
+Lambeth,Private room,65.46,5,185,166,0.72
+Tower Hamlets,Entire home/apt,224.63,4,20,318,1.1
+Lambeth,Private room,34.87,28,139,270,5.59
+Kensington and Chelsea,Entire home/apt,522.21,5,261,214,3.97
+Westminster,Entire home/apt,110.2,26,283,353,2.03
+Southwark,Entire home/apt,161.15,25,238,189,0.6
+Southwark,Entire home/apt,731.39,15,75,328,3.15
+Southwark,Private room,97.58,8,224,130,1.73
+Westminster,Entire home/apt,329.63,3,203,201,2.3
+Kensington and Chelsea,Entire home/apt,456.84,22,15,12,5.07
+Islington,Entire home/apt,213.87,25,32,114,0.38
+Hackney,Entire home/apt,69.88,15,227,119,3.78
+Westminster,Private room,131.07,15,55,97,2.97
+Lambeth,Entire home/apt,88.62,1,238,41,2.12
+Hammersmith,Entire home/apt,238.42,3,218,195,2.3
+Westminster,Private room,109.66,8,160,232,1.07
+Camden,Entire home/apt,241.65,25,65,256,2.17
+Islington,Entire home/apt,106.5,4,242,251,0.18
+Hackney,Entire home/apt,114.34,3,198,191,0.33
+Hammersmith,Entire home/apt,232.63,19,87,196,0.55
+Camden,Private room,112.39,9,195,283,0.51
+Islington,Entire home/apt,292.05,7,35,33,0.84
+Wandsworth,Entire home/apt,126.05,24,175,227,0.29
+Camden,Private room,182.69,18,55,34,0.16
+Hammersmith,Entire home/apt,167.07,12,132,63,3.71
+Lambeth,Entire home/apt,524.43,7,34,25,3.34
+Hammersmith,Private room,80.3,4,112,138,2.9
+Camden,Entire home/apt,126.03,12,85,284,3.51
+Southwark,Private room,77.76,13,9,357,0.24
+Hammersmith,Private room,66.36,17,179,361,1.26
+Islington,Private room,76.98,14,225,242,2.95
+Lambeth,Entire home/apt,338.01,11,13,257,2.48
+Westminster,Private room,113.58,17,11,165,0.12
+Hammersmith,Entire home/apt,144.49,6,168,334,2.08
+Hammersmith,Private room,27.97,17,224,182,0.6
+Lambeth,Private room,55.37,8,76,335,1.36
+Camden,Entire home/apt,129.15,19,49,280,3.08
+Wandsworth,Shared room,56.16,4,55,38,0.73
+Islington,Private room,70.78,5,238,214,0.16
+Kensington and Chelsea,Entire home/apt,200.93,28,274,134,1.44
+Wandsworth,Entire home/apt,221.1,3,276,123,0.67
+Lambeth,Private room,94.42,25,88,157,1.66
+Tower Hamlets,Private room,65.05,29,163,360,3.17
+Southwark,Entire home/apt,144.42,25,75,220,5.44
+Tower Hamlets,Private room,67.45,16,30,222,0.55
+Hammersmith,Private room,64.14,12,61,200,9.85
+Islington,Entire home/apt,55.58,11,52,275,1.25
+Tower Hamlets,Shared room,54.28,3,41,332,1.72
+Southwark,Private room,128.24,1,14,269,1.1
+Southwark,Private room,62.58,26,239,106,0.63
+Hackney,Entire home/apt,212.28,21,173,353,2.22
+Camden,Private room,60.6,3,46,4,3.57
+Tower Hamlets,Private room,61.69,25,269,341,2.68
+Hackney,Entire home/apt,193.55,20,213,78,4.97
+Camden,Entire home/apt,50.24,4,9,148,5.5
+Westminster,Entire home/apt,189.4,29,128,317,1.31
+Wandsworth,Shared room,50.5,4,64,201,0.79
+Tower Hamlets,Private room,55.12,20,173,324,1.96
+Wandsworth,Entire home/apt,54.3,26,47,207,10.04
+Hackney,Entire home/apt,214.68,11,131,112,2.68
+Wandsworth,Entire home/apt,193.4,7,112,35,0.92
+Tower Hamlets,Private room,120.03,18,240,133,0.04
+Lambeth,Entire home/apt,143.55,2,24,32,4.88
+Lambeth,Entire home/apt,179.84,6,136,322,0.03
+Kensington and Chelsea,Entire home/apt,273.89,6,162,141,8.95
+Islington,Entire home/apt,138.13,10,146,65,1.2
+Hammersmith,Entire home/apt,262.6,6,37,96,0.48
+Islington,Entire home/apt,193.04,14,251,291,0.29
+Westminster,Private room,98.58,9,103,28,1.28
+Kensington and Chelsea,Private room,110.06,15,116,206,2.07
+Westminster,Private room,142.09,4,74,232,2.46
+Wandsworth,Private room,83.95,9,202,304,0.53
+Lambeth,Entire home/apt,109.87,10,273,174,0.67
+Hammersmith,Private room,119.19,13,154,182,0.25
+Camden,Private room,113.59,26,127,165,0.74
+Islington,Entire home/apt,109.85,10,20,78,0.73
+Kensington and Chelsea,Entire home/apt,204.4,6,41,49,0.86
+Lambeth,Private room,61.72,18,29,294,5.47
+Camden,Entire home/apt,201.83,18,80,304,7.74
+Islington,Entire home/apt,128.94,21,71,208,0.91
+Hackney,Private room,71.46,20,47,126,0.83
+Lambeth,Shared room,24.62,3,193,154,1.67
+Hammersmith,Entire home/apt,103.17,7,273,327,0.04
+Hammersmith,Private room,94.18,20,283,192,0.95
+Islington,Private room,130.81,16,164,179,1.66
+Hammersmith,Private room,45.01,10,225,306,2.66
+Wandsworth,Entire home/apt,135.74,23,56,181,2.56
+Hammersmith,Entire home/apt,128.17,28,119,241,0.84
+Hackney,Entire home/apt,97.02,20,61,118,1.23
+Southwark,Entire home/apt,325.2,17,56,66,5.58
+Hammersmith,Entire home/apt,102.19,23,61,266,0.41
+Kensington and Chelsea,Entire home/apt,344.66,23,152,238,2.58
+Westminster,Entire home/apt,212.35,4,49,106,0.01
+Kensington and Chelsea,Entire home/apt,186.72,18,109,144,0.28
+Camden,Private room,151.44,15,198,363,3.11
+Tower Hamlets,Entire home/apt,643.72,2,291,63,5.05
+Kensington and Chelsea,Private room,56.37,14,211,27,2.19
+Westminster,Private room,77.7,9,21,255,2.81
+Kensington and Chelsea,Entire home/apt,492.0,15,201,64,2.98
+Westminster,Private room,82.83,23,43,187,0.5
+Southwark,Entire home/apt,176.88,10,259,194,0.78
+Lambeth,Private room,86.12,15,36,2,0.44
+Camden,Shared room,43.94,28,218,145,5.7
+Lambeth,Entire home/apt,90.13,10,88,332,0.23
+Tower Hamlets,Entire home/apt,99.31,10,43,250,0.14
+Wandsworth,Entire home/apt,144.79,9,129,18,0.69
+Wandsworth,Private room,49.66,19,137,274,1.8
+Camden,Entire home/apt,248.97,24,94,172,2.28
+Islington,Shared room,56.05,6,168,69,7.87
+Hackney,Entire home/apt,295.12,7,201,201,1.14
+Hammersmith,Entire home/apt,186.92,3,111,147,2.53
+Hammersmith,Private room,116.48,28,55,300,1.12
+Wandsworth,Entire home/apt,74.91,28,227,357,0.36
+Westminster,Private room,100.74,28,187,17,1.07
+Westminster,Shared room,65.58,19,52,280,0.05
+Southwark,Private room,89.01,7,110,42,2.61
+Wandsworth,Entire home/apt,72.02,3,277,55,0.95
+Tower Hamlets,Private room,45.92,16,65,208,1.93
+Hammersmith,Private room,56.79,17,8,100,3.35
+Kensington and Chelsea,Private room,141.25,2,265,151,3.43
+Hackney,Private room,179.53,3,247,40,1.91
+Lambeth,Entire home/apt,93.63,3,289,75,2.12
+Hammersmith,Entire home/apt,340.0,27,53,54,0.02
+Southwark,Entire home/apt,169.71,2,119,224,5.58
+Lambeth,Shared room,34.58,8,196,72,0.07
+Tower Hamlets,Entire home/apt,90.51,8,115,60,2.12
+Tower Hamlets,Entire home/apt,108.22,19,106,104,0.63
+Tower Hamlets,Private room,121.12,15,231,281,0.41
+Kensington and Chelsea,Entire home/apt,831.69,5,49,319,0.83
+Hammersmith,Entire home/apt,139.11,15,103,14,1.28
+Southwark,Private room,41.53,17,56,143,3.5
+Wandsworth,Private room,58.18,19,104,187,0.62
+Hackney,Private room,46.32,10,279,303,2.4
+Lambeth,Entire home/apt,280.39,11,11,109,2.73
+Tower Hamlets,Entire home/apt,187.23,23,200,130,4.97
+Islington,Entire home/apt,195.36,16,28,49,0.24
+Camden,Entire home/apt,405.16,28,136,326,3.11
+Hammersmith,Entire home/apt,103.64,23,263,257,1.23
+Tower Hamlets,Shared room,26.71,8,1,304,0.26
+Westminster,Entire home/apt,326.73,22,261,61,2.41
+Islington,Entire home/apt,139.72,18,110,79,2.51
+Westminster,Private room,91.98,18,53,96,0.13
+Hackney,Entire home/apt,315.45,28,53,86,0.17
+Tower Hamlets,Entire home/apt,78.01,4,196,38,0.4
+Tower Hamlets,Private room,55.76,8,36,66,1.67
+Westminster,Entire home/apt,91.97,13,178,12,0.78
+Kensington and Chelsea,Entire home/apt,867.82,1,193,102,0.58
+Tower Hamlets,Entire home/apt,292.01,26,292,200,1.23
+Hackney,Shared room,27.1,8,112,339,0.4
+Camden,Private room,35.62,10,223,261,4.76
+Lambeth,Entire home/apt,184.02,26,11,135,1.09
+Tower Hamlets,Entire home/apt,423.31,9,220,339,0.07
+Westminster,Entire home/apt,138.51,14,16,268,2.33
+Westminster,Shared room,41.95,7,210,279,3.85
+Southwark,Private room,60.62,28,255,72,0.3
+Hammersmith,Entire home/apt,420.14,4,145,313,0.31
+Westminster,Private room,74.46,18,3,118,2.82
+Tower Hamlets,Entire home/apt,98.72,6,155,261,0.61
+Islington,Entire home/apt,360.29,5,44,178,0.54
+Lambeth,Private room,116.81,29,95,265,0.09
+Wandsworth,Entire home/apt,144.44,10,66,144,1.04
+Westminster,Shared room,52.8,21,104,225,4.2
+Hackney,Entire home/apt,91.25,18,37,229,2.27
+Southwark,Shared room,43.82,15,120,258,3.32
+Lambeth,Entire home/apt,161.45,2,297,93,0.5
+Southwark,Private room,87.63,1,257,346,1.83
+Lambeth,Private room,139.0,5,164,115,0.14
+Lambeth,Entire home/apt,152.45,6,292,176,6.28
+Lambeth,Shared room,50.06,14,258,46,1.44
+Hammersmith,Entire home/apt,123.98,23,2,128,2.53
+Southwark,Private room,99.2,5,30,190,1.28
+Lambeth,Entire home/apt,91.83,1,82,45,2.24
+Islington,Shared room,45.36,29,104,336,1.95
+Lambeth,Entire home/apt,70.48,26,103,311,0.02
+Hackney,Entire home/apt,261.56,3,111,53,6.44
+Islington,Entire home/apt,264.02,4,289,207,7.17
+Camden,Private room,56.98,9,254,141,2.67
+Islington,Private room,70.1,27,186,10,1.67
+Tower Hamlets,Shared room,30.49,18,0,359,3.68
+Hackney,Entire home/apt,271.52,28,24,346,1.14
+Westminster,Entire home/apt,561.33,2,197,286,0.2
+Lambeth,Entire home/apt,54.67,15,146,203,6.69
+Camden,Private room,108.03,24,293,362,4.67
+Tower Hamlets,Private room,29.51,10,186,132,9.36
+Southwark,Entire home/apt,414.61,18,159,41,3.41
+Kensington and Chelsea,Entire home/apt,227.41,26,219,154,7.8
+Tower Hamlets,Entire home/apt,300.59,8,118,28,2.18
+Kensington and Chelsea,Private room,241.05,10,50,291,1.64
+Hackney,Entire home/apt,82.12,16,187,56,2.28
+Lambeth,Private room,43.4,20,183,190,1.5
+Tower Hamlets,Entire home/apt,94.12,23,150,112,4.76
+Hammersmith,Entire home/apt,263.66,11,158,329,5.79
+Hackney,Entire home/apt,157.26,26,293,153,3.08
+Wandsworth,Entire home/apt,149.82,11,213,161,7.45
+Hackney,Entire home/apt,172.33,15,42,50,0.12
+Islington,Private room,91.47,25,67,351,0.35
+Hammersmith,Entire home/apt,180.35,27,245,313,3.23

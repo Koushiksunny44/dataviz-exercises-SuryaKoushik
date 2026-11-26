@@ -1,0 +1,48 @@
+Country,Continent,GDP_per_capita,Life_expectancy,Population,CO2_per_capita
+Afghanistan,Asia,550,63,38000000,0.3
+Australia,Oceania,54000,83,26000000,15.1
+Bangladesh,Asia,2200,73,170000000,0.5
+Brazil,Americas,8900,76,215000000,2.1
+Canada,Americas,46000,82,38000000,14.2
+China,Asia,12500,77,1400000000,7.4
+Colombia,Americas,6400,77,51000000,1.7
+DR Congo,Africa,550,61,95000000,0.1
+Egypt,Africa,3500,72,103000000,2.1
+Ethiopia,Africa,950,68,120000000,0.1
+France,Europe,42000,83,68000000,4.5
+Germany,Europe,50000,81,84000000,7.7
+Ghana,Africa,2200,65,32000000,0.5
+India,Asia,2200,70,1400000000,1.9
+Indonesia,Asia,4100,72,275000000,2.1
+Iran,Asia,5600,77,86000000,7.6
+Italy,Europe,34000,83,60000000,5.3
+Japan,Asia,40000,84,125000000,8.5
+Kenya,Africa,1900,67,54000000,0.4
+Malaysia,Asia,11000,76,33000000,8.1
+Mexico,Americas,9900,75,130000000,3.8
+Morocco,Africa,3200,77,37000000,1.6
+Mozambique,Africa,480,60,32000000,0.1
+Myanmar,Asia,1500,67,54000000,0.6
+Netherlands,Europe,52000,82,18000000,8.1
+Nigeria,Africa,2000,55,213000000,0.7
+Norway,Europe,82000,83,5000000,7.5
+Pakistan,Asia,1500,68,225000000,0.9
+Peru,Americas,6200,76,33000000,1.6
+Philippines,Asia,3500,72,111000000,1.1
+Poland,Europe,17000,78,38000000,7.0
+Russia,Europe,11000,73,144000000,11.4
+Saudi Arabia,Asia,23000,75,35000000,18.7
+South Africa,Africa,6100,64,59000000,6.4
+South Korea,Asia,31000,83,52000000,11.4
+Spain,Europe,29000,84,47000000,5.2
+Sudan,Africa,800,66,44000000,0.4
+Sweden,Europe,53000,83,10000000,3.5
+Tanzania,Africa,1050,66,63000000,0.2
+Thailand,Asia,6500,77,70000000,3.8
+Turkey,Europe,9600,78,85000000,5.4
+Uganda,Africa,780,64,47000000,0.1
+UK,Europe,46000,81,68000000,5.1
+USA,Americas,62000,79,335000000,14.2
+Venezuela,Americas,7000,72,29000000,4.0
+Vietnam,Asia,3500,76,97000000,3.2
+Zimbabwe,Africa,1100,62,16000000,0.6

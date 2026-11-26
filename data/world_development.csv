@@ -1,0 +1,21 @@
+Country,Region,HDI,Life_Expectancy,GNI_per_capita,Fertility_Rate,Population_M,Urban_pct
+Norway,Europe,0.957,82.4,67614,0.1,5.4,83
+Switzerland,Europe,0.955,83.8,72051,0.1,8.6,74
+Germany,Europe,0.942,80.9,56053,0.3,84.0,77
+United Kingdom,Europe,0.929,81.4,46827,0.4,67.7,84
+United States,North America,0.921,78.9,65118,0.5,332.0,83
+France,Europe,0.903,82.7,44538,0.3,67.5,81
+Japan,East Asia,0.919,84.3,40113,0.3,125.0,92
+South Korea,East Asia,0.925,83.5,42328,0.3,51.7,82
+China,East Asia,0.768,77.1,11819,0.5,1412.0,62
+Brazil,Latin America,0.754,75.9,8921,1.2,215.0,88
+Mexico,Latin America,0.758,75.0,10046,0.8,130.0,81
+South Africa,Africa,0.713,64.1,6374,1.8,60.0,68
+Egypt,Africa,0.731,73.0,3019,1.1,104.0,43
+India,South Asia,0.633,70.2,2257,1.4,1407.0,36
+Bangladesh,South Asia,0.661,72.9,1698,0.9,166.0,40
+Nigeria,Africa,0.535,55.2,2097,2.5,220.0,53
+Ethiopia,Africa,0.498,67.8,855,4.0,120.0,22
+Pakistan,South Asia,0.544,67.3,1388,3.4,231.0,37
+Afghanistan,South Asia,0.478,62.8,508,4.5,40.0,26
+DR Congo,Africa,0.459,60.7,557,5.6,100.0,46

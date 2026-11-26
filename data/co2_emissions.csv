@@ -1,0 +1,346 @@
+Country,Region,Year,CO2_Mt,CO2_per_capita
+United States,North America,2000,5857.6,1.32
+United States,North America,2001,5724.0,1.26
+United States,North America,2002,5652.8,1.11
+United States,North America,2003,5592.8,1.29
+United States,North America,2004,5743.2,1.12
+United States,North America,2005,5589.0,1.32
+United States,North America,2006,5385.5,1.09
+United States,North America,2007,5442.9,1.1
+United States,North America,2008,5348.1,1.14
+United States,North America,2009,5038.1,1.04
+United States,North America,2010,5082.5,1.05
+United States,North America,2011,5176.5,1.09
+United States,North America,2012,5250.0,1.06
+United States,North America,2013,4993.8,1.08
+United States,North America,2014,4896.9,1.08
+United States,North America,2015,4912.9,0.99
+United States,North America,2016,4770.3,1.07
+United States,North America,2017,4746.2,1.01
+United States,North America,2018,4718.4,0.92
+United States,North America,2019,4537.3,1.06
+United States,North America,2020,4695.4,0.97
+United States,North America,2021,4398.4,0.95
+United States,North America,2022,4325.9,1.02
+China,Asia,2000,3513.8,1.32
+China,Asia,2001,3951.7,1.3
+China,Asia,2002,4312.0,1.45
+China,Asia,2003,4691.9,1.64
+China,Asia,2004,5078.9,1.73
+China,Asia,2005,5467.8,1.87
+China,Asia,2006,5974.0,2.15
+China,Asia,2007,6322.7,2.07
+China,Asia,2008,6673.0,2.62
+China,Asia,2009,7052.6,2.27
+China,Asia,2010,7542.8,2.86
+China,Asia,2011,7972.2,3.0
+China,Asia,2012,8365.2,2.73
+China,Asia,2013,8641.3,3.31
+China,Asia,2014,9078.4,3.32
+China,Asia,2015,9466.5,3.25
+China,Asia,2016,9887.0,3.41
+China,Asia,2017,10356.9,3.99
+China,Asia,2018,10794.9,3.83
+China,Asia,2019,11125.3,4.18
+China,Asia,2020,11454.8,4.14
+China,Asia,2021,11897.5,4.27
+China,Asia,2022,12409.5,4.37
+India,Asia,2000,901.6,1.21
+India,Asia,2001,974.6,1.36
+India,Asia,2002,1056.0,1.44
+India,Asia,2003,1146.4,1.67
+India,Asia,2004,1205.4,1.82
+India,Asia,2005,1291.0,1.9
+India,Asia,2006,1396.5,2.06
+India,Asia,2007,1465.9,1.91
+India,Asia,2008,1541.7,2.27
+India,Asia,2009,1637.4,2.45
+India,Asia,2010,1687.4,2.22
+India,Asia,2011,1774.1,2.43
+India,Asia,2012,1865.3,2.34
+India,Asia,2013,1944.7,2.71
+India,Asia,2014,1994.5,2.56
+India,Asia,2015,2092.4,2.81
+India,Asia,2016,2177.1,3.04
+India,Asia,2017,2267.3,3.28
+India,Asia,2018,2344.6,3.56
+India,Asia,2019,2418.7,3.19
+India,Asia,2020,2465.5,3.28
+India,Asia,2021,2579.5,3.25
+India,Asia,2022,2661.1,3.36
+Germany,Europe,2000,902.4,1.25
+Germany,Europe,2001,831.7,1.12
+Germany,Europe,2002,815.2,1.18
+Germany,Europe,2003,804.7,1.11
+Germany,Europe,2004,772.9,1.17
+Germany,Europe,2005,759.1,1.13
+Germany,Europe,2006,685.9,1.0
+Germany,Europe,2007,668.0,0.88
+Germany,Europe,2008,650.3,0.96
+Germany,Europe,2009,608.3,0.91
+Germany,Europe,2010,611.2,0.83
+Germany,Europe,2011,569.2,0.9
+Germany,Europe,2012,586.7,0.79
+Germany,Europe,2013,521.5,0.82
+Germany,Europe,2014,504.5,0.79
+Germany,Europe,2015,499.0,0.77
+Germany,Europe,2016,438.8,0.64
+Germany,Europe,2017,407.4,0.54
+Germany,Europe,2018,413.2,0.65
+Germany,Europe,2019,389.5,0.55
+Germany,Europe,2020,373.4,0.53
+Germany,Europe,2021,344.0,0.54
+Germany,Europe,2022,315.1,0.48
+United Kingdom,Europe,2000,552.4,1.15
+United Kingdom,Europe,2001,542.6,1.31
+United Kingdom,Europe,2002,523.3,1.05
+United Kingdom,Europe,2003,492.0,1.02
+United Kingdom,Europe,2004,500.9,1.15
+United Kingdom,Europe,2005,465.3,0.98
+United Kingdom,Europe,2006,429.1,0.92
+United Kingdom,Europe,2007,428.8,1.0
+United Kingdom,Europe,2008,410.8,0.95
+United Kingdom,Europe,2009,384.6,0.87
+United Kingdom,Europe,2010,357.3,0.76
+United Kingdom,Europe,2011,331.6,0.7
+United Kingdom,Europe,2012,319.1,0.77
+United Kingdom,Europe,2013,303.8,0.7
+United Kingdom,Europe,2014,280.1,0.63
+United Kingdom,Europe,2015,276.3,0.62
+United Kingdom,Europe,2016,247.0,0.53
+United Kingdom,Europe,2017,210.4,0.42
+United Kingdom,Europe,2018,188.0,0.46
+United Kingdom,Europe,2019,185.4,0.45
+United Kingdom,Europe,2020,157.5,0.32
+United Kingdom,Europe,2021,148.0,0.36
+United Kingdom,Europe,2022,125.3,0.31
+France,Europe,2000,389.4,1.34
+France,Europe,2001,375.4,1.29
+France,Europe,2002,362.2,1.12
+France,Europe,2003,367.7,1.28
+France,Europe,2004,348.3,1.16
+France,Europe,2005,343.1,1.12
+France,Europe,2006,343.2,1.21
+France,Europe,2007,334.5,1.15
+France,Europe,2008,317.1,1.07
+France,Europe,2009,326.4,1.02
+France,Europe,2010,318.2,0.98
+France,Europe,2011,306.0,1.05
+France,Europe,2012,298.0,1.03
+France,Europe,2013,290.0,0.98
+France,Europe,2014,308.1,1.02
+France,Europe,2015,277.4,0.96
+France,Europe,2016,267.1,0.83
+France,Europe,2017,248.0,0.81
+France,Europe,2018,244.2,0.71
+France,Europe,2019,256.1,0.79
+France,Europe,2020,215.4,0.7
+France,Europe,2021,218.3,0.65
+France,Europe,2022,222.5,0.72
+Brazil,Latin America,2000,423.8,1.26
+Brazil,Latin America,2001,445.8,1.19
+Brazil,Latin America,2002,450.4,1.32
+Brazil,Latin America,2003,454.4,1.36
+Brazil,Latin America,2004,452.6,1.39
+Brazil,Latin America,2005,481.6,1.34
+Brazil,Latin America,2006,483.2,1.27
+Brazil,Latin America,2007,499.0,1.58
+Brazil,Latin America,2008,514.3,1.47
+Brazil,Latin America,2009,527.4,1.43
+Brazil,Latin America,2010,525.9,1.54
+Brazil,Latin America,2011,534.4,1.62
+Brazil,Latin America,2012,539.2,1.71
+Brazil,Latin America,2013,567.9,1.73
+Brazil,Latin America,2014,588.3,1.68
+Brazil,Latin America,2015,588.9,1.63
+Brazil,Latin America,2016,600.9,1.58
+Brazil,Latin America,2017,593.9,1.59
+Brazil,Latin America,2018,613.8,1.78
+Brazil,Latin America,2019,626.7,1.68
+Brazil,Latin America,2020,602.1,1.64
+Brazil,Latin America,2021,631.2,1.81
+Brazil,Latin America,2022,664.0,1.98
+Japan,Asia,2000,1165.7,1.1
+Japan,Asia,2001,1219.6,1.27
+Japan,Asia,2002,1135.5,1.27
+Japan,Asia,2003,1131.4,1.08
+Japan,Asia,2004,1151.1,1.23
+Japan,Asia,2005,1126.7,1.28
+Japan,Asia,2006,1100.8,1.16
+Japan,Asia,2007,1133.1,1.17
+Japan,Asia,2008,1050.3,1.1
+Japan,Asia,2009,1061.4,1.21
+Japan,Asia,2010,1064.1,1.2
+Japan,Asia,2011,1041.7,0.99
+Japan,Asia,2012,1005.1,1.01
+Japan,Asia,2013,990.9,0.95
+Japan,Asia,2014,1010.4,1.09
+Japan,Asia,2015,996.6,1.09
+Japan,Asia,2016,967.4,1.07
+Japan,Asia,2017,925.1,1.01
+Japan,Asia,2018,916.6,1.01
+Japan,Asia,2019,914.5,0.93
+Japan,Asia,2020,902.8,0.99
+Japan,Asia,2021,898.1,1.0
+Japan,Asia,2022,865.1,0.89
+Canada,North America,2000,589.6,1.17
+Canada,North America,2001,584.4,1.36
+Canada,North America,2002,585.1,1.22
+Canada,North America,2003,565.2,1.31
+Canada,North America,2004,563.8,1.32
+Canada,North America,2005,553.5,1.21
+Canada,North America,2006,540.5,1.12
+Canada,North America,2007,569.3,1.18
+Canada,North America,2008,553.4,1.26
+Canada,North America,2009,544.2,1.24
+Canada,North America,2010,529.9,1.04
+Canada,North America,2011,514.6,1.12
+Canada,North America,2012,531.3,1.11
+Canada,North America,2013,513.3,1.02
+Canada,North America,2014,514.8,1.14
+Canada,North America,2015,498.5,0.99
+Canada,North America,2016,502.8,0.99
+Canada,North America,2017,489.1,1.12
+Canada,North America,2018,484.5,0.96
+Canada,North America,2019,487.7,1.15
+Canada,North America,2020,463.2,1.06
+Canada,North America,2021,458.7,1.08
+Canada,North America,2022,461.7,1.05
+Australia,Oceania,2000,378.4,1.26
+Australia,Oceania,2001,391.5,1.19
+Australia,Oceania,2002,388.8,1.28
+Australia,Oceania,2003,394.9,1.18
+Australia,Oceania,2004,397.8,1.21
+Australia,Oceania,2005,407.5,1.41
+Australia,Oceania,2006,403.7,1.35
+Australia,Oceania,2007,414.2,1.3
+Australia,Oceania,2008,423.1,1.49
+Australia,Oceania,2009,426.7,1.28
+Australia,Oceania,2010,430.1,1.43
+Australia,Oceania,2011,435.2,1.47
+Australia,Oceania,2012,443.8,1.52
+Australia,Oceania,2013,461.4,1.54
+Australia,Oceania,2014,444.2,1.58
+Australia,Oceania,2015,471.6,1.48
+Australia,Oceania,2016,453.9,1.4
+Australia,Oceania,2017,448.9,1.5
+Australia,Oceania,2018,466.0,1.4
+Australia,Oceania,2019,477.6,1.51
+Australia,Oceania,2020,494.3,1.73
+Australia,Oceania,2021,478.2,1.7
+Australia,Oceania,2022,493.7,1.73
+South Korea,Asia,2000,438.1,1.32
+South Korea,Asia,2001,481.5,1.44
+South Korea,Asia,2002,490.6,1.5
+South Korea,Asia,2003,490.8,1.27
+South Korea,Asia,2004,494.6,1.5
+South Korea,Asia,2005,537.2,1.59
+South Korea,Asia,2006,539.0,1.47
+South Korea,Asia,2007,566.1,1.5
+South Korea,Asia,2008,570.0,1.67
+South Korea,Asia,2009,585.4,1.77
+South Korea,Asia,2010,595.9,1.64
+South Korea,Asia,2011,620.6,1.6
+South Korea,Asia,2012,631.1,1.66
+South Korea,Asia,2013,649.6,1.87
+South Korea,Asia,2014,646.2,1.66
+South Korea,Asia,2015,686.5,1.97
+South Korea,Asia,2016,704.0,1.96
+South Korea,Asia,2017,706.0,2.1
+South Korea,Asia,2018,738.5,2.21
+South Korea,Asia,2019,750.8,2.05
+South Korea,Asia,2020,755.8,2.19
+South Korea,Asia,2021,777.3,2.04
+South Korea,Asia,2022,789.5,2.15
+Russia,Europe,2000,1495.5,1.19
+Russia,Europe,2001,1531.6,1.24
+Russia,Europe,2002,1552.2,1.32
+Russia,Europe,2003,1570.5,1.36
+Russia,Europe,2004,1467.2,1.29
+Russia,Europe,2005,1447.2,1.16
+Russia,Europe,2006,1488.3,1.32
+Russia,Europe,2007,1415.9,1.17
+Russia,Europe,2008,1467.2,1.12
+Russia,Europe,2009,1471.4,1.11
+Russia,Europe,2010,1420.9,1.11
+Russia,Europe,2011,1438.1,1.2
+Russia,Europe,2012,1459.6,1.1
+Russia,Europe,2013,1403.6,1.06
+Russia,Europe,2014,1385.4,1.03
+Russia,Europe,2015,1396.7,1.06
+Russia,Europe,2016,1357.9,1.07
+Russia,Europe,2017,1440.9,1.05
+Russia,Europe,2018,1371.1,1.17
+Russia,Europe,2019,1338.3,1.16
+Russia,Europe,2020,1356.6,1.19
+Russia,Europe,2021,1336.5,1.14
+Russia,Europe,2022,1323.1,1.12
+South Africa,Africa,2000,425.4,1.2
+South Africa,Africa,2001,430.0,1.25
+South Africa,Africa,2002,427.0,1.23
+South Africa,Africa,2003,456.8,1.39
+South Africa,Africa,2004,455.0,1.33
+South Africa,Africa,2005,457.7,1.34
+South Africa,Africa,2006,458.9,1.34
+South Africa,Africa,2007,456.8,1.26
+South Africa,Africa,2008,463.5,1.22
+South Africa,Africa,2009,462.8,1.3
+South Africa,Africa,2010,474.4,1.27
+South Africa,Africa,2011,475.7,1.49
+South Africa,Africa,2012,504.5,1.55
+South Africa,Africa,2013,502.6,1.46
+South Africa,Africa,2014,500.7,1.48
+South Africa,Africa,2015,497.6,1.52
+South Africa,Africa,2016,501.1,1.39
+South Africa,Africa,2017,513.4,1.45
+South Africa,Africa,2018,528.0,1.49
+South Africa,Africa,2019,541.4,1.73
+South Africa,Africa,2020,518.0,1.39
+South Africa,Africa,2021,539.8,1.46
+South Africa,Africa,2022,534.4,1.46
+Mexico,Latin America,2000,415.9,1.18
+Mexico,Latin America,2001,428.4,1.25
+Mexico,Latin America,2002,429.0,1.4
+Mexico,Latin America,2003,442.0,1.44
+Mexico,Latin America,2004,444.4,1.42
+Mexico,Latin America,2005,455.2,1.27
+Mexico,Latin America,2006,474.3,1.46
+Mexico,Latin America,2007,476.8,1.44
+Mexico,Latin America,2008,490.3,1.4
+Mexico,Latin America,2009,486.4,1.4
+Mexico,Latin America,2010,504.8,1.48
+Mexico,Latin America,2011,494.3,1.36
+Mexico,Latin America,2012,516.4,1.57
+Mexico,Latin America,2013,529.4,1.47
+Mexico,Latin America,2014,518.0,1.54
+Mexico,Latin America,2015,534.5,1.54
+Mexico,Latin America,2016,548.4,1.51
+Mexico,Latin America,2017,564.5,1.6
+Mexico,Latin America,2018,559.2,1.72
+Mexico,Latin America,2019,576.5,1.71
+Mexico,Latin America,2020,592.1,1.73
+Mexico,Latin America,2021,592.8,1.88
+Mexico,Latin America,2022,594.3,1.93
+Indonesia,Asia,2000,382.8,1.37
+Indonesia,Asia,2001,400.4,1.23
+Indonesia,Asia,2002,430.7,1.44
+Indonesia,Asia,2003,453.8,1.59
+Indonesia,Asia,2004,482.6,1.49
+Indonesia,Asia,2005,501.9,1.54
+Indonesia,Asia,2006,533.0,1.81
+Indonesia,Asia,2007,551.8,1.82
+Indonesia,Asia,2008,586.6,1.89
+Indonesia,Asia,2009,602.5,2.11
+Indonesia,Asia,2010,614.5,2.01
+Indonesia,Asia,2011,647.3,2.04
+Indonesia,Asia,2012,680.1,2.12
+Indonesia,Asia,2013,717.7,2.55
+Indonesia,Asia,2014,736.3,2.62
+Indonesia,Asia,2015,738.2,2.49
+Indonesia,Asia,2016,768.8,2.35
+Indonesia,Asia,2017,813.7,2.83
+Indonesia,Asia,2018,834.8,2.96
+Indonesia,Asia,2019,872.3,3.03
+Indonesia,Asia,2020,876.5,2.74
+Indonesia,Asia,2021,898.5,3.1
+Indonesia,Asia,2022,930.5,3.22

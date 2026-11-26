@@ -1,0 +1,104 @@
+Country,Region,Source,Share_pct,TWh
+United States,North America,Coal,10,1015.0
+United States,North America,Oil,35,3220.0
+United States,North America,Natural Gas,34,3083.0
+United States,North America,Nuclear,9,798.0
+United States,North America,Hydro,3,339.0
+United States,North America,Wind,4,413.0
+United States,North America,Solar,3,325.0
+United States,North America,Other Renewables,2,229.0
+China,Asia,Coal,58,6929.1
+China,Asia,Oil,18,1620.0
+China,Asia,Natural Gas,10,872.0
+China,Asia,Nuclear,4,394.0
+China,Asia,Hydro,6,488.0
+China,Asia,Wind,2,223.0
+China,Asia,Solar,2,231.0
+Germany,Europe,Coal,5,537.0
+Germany,Europe,Oil,15,1361.0
+Germany,Europe,Natural Gas,27,2293.0
+Germany,Europe,Nuclear,5,476.0
+Germany,Europe,Hydro,4,453.0
+Germany,Europe,Wind,25,2348.0
+Germany,Europe,Solar,10,814.0
+Germany,Europe,Other Renewables,9,819.0
+France,Europe,Coal,1,120.0
+France,Europe,Oil,8,857.0
+France,Europe,Natural Gas,10,1160.0
+France,Europe,Nuclear,62,6882.0
+France,Europe,Hydro,7,711.0
+France,Europe,Wind,4,344.0
+France,Europe,Solar,4,376.0
+France,Europe,Other Renewables,4,413.0
+United Kingdom,Europe,Coal,2,230.0
+United Kingdom,Europe,Oil,25,2269.0
+United Kingdom,Europe,Natural Gas,37,3139.0
+United Kingdom,Europe,Nuclear,8,819.0
+United Kingdom,Europe,Hydro,2,174.0
+United Kingdom,Europe,Wind,17,1775.0
+United Kingdom,Europe,Solar,4,362.0
+United Kingdom,Europe,Other Renewables,5,446.0
+India,Asia,Coal,45,4319.0
+India,Asia,Oil,25,2593.0
+India,Asia,Natural Gas,10,1018.0
+India,Asia,Nuclear,2,180.0
+India,Asia,Hydro,10,1156.0
+India,Asia,Wind,5,422.0
+India,Asia,Solar,3,245.0
+Brazil,Latin America,Coal,3,312.0
+Brazil,Latin America,Oil,35,2973.0
+Brazil,Latin America,Natural Gas,9,902.0
+Brazil,Latin America,Nuclear,1,118.0
+Brazil,Latin America,Hydro,45,4857.0
+Brazil,Latin America,Wind,4,419.0
+Brazil,Latin America,Solar,2,206.0
+Brazil,Latin America,Other Renewables,1,87.0
+Australia,Oceania,Coal,30,2919.0
+Australia,Oceania,Oil,28,2624.0
+Australia,Oceania,Natural Gas,22,2599.0
+Australia,Oceania,Hydro,5,448.0
+Australia,Oceania,Wind,10,989.0
+Australia,Oceania,Solar,5,588.0
+Japan,Asia,Coal,30,3347.0
+Japan,Asia,Oil,25,2965.0
+Japan,Asia,Natural Gas,30,3130.0
+Japan,Asia,Nuclear,6,560.0
+Japan,Asia,Hydro,4,452.0
+Japan,Asia,Wind,3,275.0
+Japan,Asia,Solar,2,173.0
+South Korea,Asia,Coal,25,2706.0
+South Korea,Asia,Oil,22,2322.0
+South Korea,Asia,Natural Gas,28,3224.0
+South Korea,Asia,Nuclear,20,2370.0
+South Korea,Asia,Hydro,1,114.0
+South Korea,Asia,Wind,2,165.0
+South Korea,Asia,Solar,2,213.0
+Norway,Europe,Oil,20,2228.0
+Norway,Europe,Natural Gas,10,1193.0
+Norway,Europe,Hydro,65,6174.0
+Norway,Europe,Wind,3,260.0
+Norway,Europe,Solar,2,228.0
+Saudi Arabia,Middle East,Oil,55,5098.0
+Saudi Arabia,Middle East,Natural Gas,44,4573.0
+Saudi Arabia,Middle East,Wind,1,96.0
+South Africa,Africa,Coal,70,6727.0
+South Africa,Africa,Oil,13,1421.0
+South Africa,Africa,Natural Gas,5,472.0
+South Africa,Africa,Nuclear,3,323.0
+South Africa,Africa,Hydro,5,403.0
+South Africa,Africa,Wind,2,186.0
+South Africa,Africa,Solar,2,186.0
+Canada,North America,Coal,5,550.0
+Canada,North America,Oil,25,2315.0
+Canada,North America,Natural Gas,9,948.0
+Canada,North America,Nuclear,12,1290.0
+Canada,North America,Hydro,44,4679.0
+Canada,North America,Wind,3,312.0
+Canada,North America,Solar,2,193.0
+Mexico,Latin America,Coal,10,949.0
+Mexico,Latin America,Oil,40,4103.0
+Mexico,Latin America,Natural Gas,38,3137.0
+Mexico,Latin America,Nuclear,1,115.0
+Mexico,Latin America,Hydro,7,791.0
+Mexico,Latin America,Wind,2,188.0
+Mexico,Latin America,Solar,2,205.0
